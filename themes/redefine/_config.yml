@@ -54,11 +54,11 @@ style:
 social_contact: # social contact icons in the first screen, you can add more by using fontawesome icon names
   enable: true
   links:
-    github:  # your GitHub URL
-    instagram: # your Instagram URL
-    zhihu:  # your ZhiHu URL
-    twitter:  # your twitter URL
-    email:  # your email
+    github:  https://status.evanluo.top/ # your GitHub URL
+    instagram: https://status.evanluo.top/ # your Instagram URL
+    zhihu: https://status.evanluo.top/ # your ZhiHu URL
+    twitter: https://status.evanluo.top/ # your twitter URL
+    email:  https://status.evanluo.top/ # your email
 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
