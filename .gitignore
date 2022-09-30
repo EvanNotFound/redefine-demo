@@ -11,3 +11,5 @@ public/
 package-lock.json
 yarn.lock
 yarn.lock
+yarn.lock
+*.lock
