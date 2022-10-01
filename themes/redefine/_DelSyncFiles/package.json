@@ -1,14 +1,10 @@
 {
   "name": "hexo-theme-redefine",
   "version": "0.1.0",
-  "private": false,
   "description": "\"Redefine\" hexo theme is a simple & fast & pure theme, but with no compromise.",
+  "main": "index.js",
   "scripts": {
-    "npm:publish": "npm publish",
-    "format": "prettier --write ./source/js/*.js ./scripts",
-    "lint:style": "stylelint --fix ./source/css",
-    "git:push": "git push --tag && git push -u origin dev",
-    "git:add": "npm run lint:style && git add ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
