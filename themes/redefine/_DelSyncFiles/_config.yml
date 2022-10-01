@@ -38,7 +38,7 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: /images/wallheaven-bg.webp # background image of the first screen, use relative path or external link
+    background_img: /images/wallhaven-bg.webp # background image of the first screen, use relative path or external link
     description: Theme Redefine # the title in the middle of the first screen
 
   # Scroll style settings
