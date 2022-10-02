@@ -19,7 +19,7 @@ style:
   avatar: /images/avatar.svg # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: # favicon of the site
+  favicon: /images/logo.svg # favicon of the site
 
   # Article image align position
   article_img_align: center # value: left | center
@@ -150,7 +150,7 @@ website_count:
 # See: https://github.com/theme-next/hexo-generator-searchdb
 # ---------------------------------------------------------------------------------------
 local_search:
-  enable: true
+  enable: false
   preload: true # Preload the search data when the page loads
 
 # ---------------------------------------------------------------------------------------
@@ -188,19 +188,13 @@ comment:
 # See: https://github.com/hexojs/hexo-generator-feed
 # ---------------------------------------------------------------------------------------
 rss:
-  enable: true
+  enable: false
 
 # ---------------------------------------------------------------------------------------
 # Lazyload image
 # ---------------------------------------------------------------------------------------
 lazyload:
   enable: true
-
-# ---------------------------------------------------------------------------------------
-# CDN
-# ---------------------------------------------------------------------------------------
-cdn:
-  enable: false
 
 # ---------------------------------------------------------------------------------------
 # PJAX
