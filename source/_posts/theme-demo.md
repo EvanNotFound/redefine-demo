@@ -2,6 +2,7 @@
 title: 主题样式 Demo
 date: 2022-10-02 19:07:05
 tags: "demo"
+sticky: 999
 ---
 
 # H1 标题
