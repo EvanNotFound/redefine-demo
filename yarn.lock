@@ -729,6 +729,11 @@
   "resolved" "https://registry.npmjs.org/hexo-theme-keep/-/hexo-theme-keep-3.4.7.tgz"
   "version" "3.4.7"
 
+"hexo-theme-redefine@^0.1.1":
+  "integrity" "sha512-zAZY87nfJ1uT/9a4MxwGMBtDiySddXAlUWEQRa+OAeSOnwEwB4ZXayCIMpjrT5CrnhquxngE1OiZbf0R1VhtHA=="
+  "resolved" "https://registry.npmjs.org/hexo-theme-redefine/-/hexo-theme-redefine-0.1.1.tgz"
+  "version" "0.1.1"
+
 "hexo-util@^2.0.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0":
   "integrity" "sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ=="
   "resolved" "https://registry.npmjs.org/hexo-util/-/hexo-util-2.7.0.tgz"
@@ -742,6 +747,11 @@
     "htmlparser2" "^7.0.0"
     "prismjs" "^1.17.1"
     "strip-indent" "^3.0.0"
+
+"hexo-wordcount@^6.0.1":
+  "integrity" "sha512-tbo2P9xRWEKQmRf7+XuPjx9It1MnaE26nA+EEb2DN39gK1x+26W7Nm4Iyp4AugQjBWYYDx7OLn4gp1WFxQpQew=="
+  "resolved" "https://registry.npmjs.org/hexo-wordcount/-/hexo-wordcount-6.0.1.tgz"
+  "version" "6.0.1"
 
 "hexo@^5.3.0":
   "integrity" "sha512-Af6mxKwx9byalaffKgiQ8/bZfbXPo2SGEn2Q9hFh++15g15/IulvOhu8lQkJdyZNzmj3hOuSrJdqoUvIr3K/qw=="
