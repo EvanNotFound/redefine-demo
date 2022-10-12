@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Theme Redefine # Site title
+  title: Theme Redefine Demo # Site title
   author: The Redefine Team # Author name
-  url: https://www.evanluo.top # Site url
+  url: https://redefine.evanluo.top # Site url
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: # logo image on the left of the navigation bar
 
@@ -69,8 +69,10 @@ menu: #you can customize
   # Categories: /categories
   # Tags: /tags
   Status: https://status.evanluo.top/
-  Links: /friends
-  About: /about
+  Github: https://github.com/EvanNotFound/hexo-theme-redefine
+  Blog: https://www.evanluo.top/
+  # Links: /friends
+  # About: /about
   # Changelog: /changelog
   # ......
 
@@ -102,7 +104,7 @@ post:
     enable: true
     auto: false # if true, show Lv1, Lv2, Lv3... , If false, show custom label
     # label array item can be one or more
-    custom_label_list: ["The one"]
+    custom_label_list: ["Owner"]
 
 # ---------------------------------------------------------------------------------------
 # Code copy
