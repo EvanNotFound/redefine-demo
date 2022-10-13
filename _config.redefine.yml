@@ -66,8 +66,7 @@ social_contact: # social contact icons in the first screen, you can add more by 
 menu: #you can customize
   Home: /
   Archives: /archives
-  # Categories: /categories
-  # Tags: /tags
+
   Status: https://status.evanluo.top/
   Github: https://github.com/EvanNotFound/hexo-theme-redefine
   Blog: https://www.evanluo.top/
@@ -168,7 +167,7 @@ comment:
     serverUrl: https://redefine-waline.vercel.app # Waline server url(vercel) example: https://example.example.com
     lang: zh-CN   # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
     dark: auto    # Waline dark mode, default: auto. See: https://waline.js.org/reference/component.html#dark
-    requiredMeta: [nick] # Waline required meta, default: [nick], see: https://waline.js.org/reference/component.html#requiredmeta
+    # requiredMeta: ['nick','mail'] # Waline required meta, default: [nick], see: https://waline.js.org/reference/component.html#requiredmeta
 
   # Gitalk
   # See: https://github.com/gitalk/gitalk
@@ -221,4 +220,4 @@ footer:
 # ---------------------------------------------------------------------------------------
 # Redefine Theme version (Please don't modify)
 # ---------------------------------------------------------------------------------------
-version: 0.1.2
+version: 0.2.0
