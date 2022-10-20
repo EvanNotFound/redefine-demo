@@ -2,7 +2,7 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Theme Redefine Demo # Site title
+  title: Theme Redefine # Site title
   author: The Redefine Team # Author name
   url: https://redefine.evanluo.top # Site url
   # Logo image (You can use local image, image external link or don’t fill)
@@ -29,6 +29,12 @@ style:
 
   # Content area max width
   content_max_width: 960px #content max width, for article
+
+  #navigation bar background color (from left to right)
+  nav_color: 
+    left: "#f78736" #left side 
+    right: "#367df7"  #right side
+    transparency: 35 #percent (10-99)
 
   # Mouse hover
   hover:
@@ -59,6 +65,7 @@ social_contact: # social contact icons in the first screen, you can add more by 
     zhihu:  # your ZhiHu URL
     twitter:  # your twitter URL
     email:  # your email
+    # ...... # you can add more
 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
@@ -103,7 +110,7 @@ post:
     enable: true
     auto: false # if true, show Lv1, Lv2, Lv3... , If false, show custom label
     # label array item can be one or more
-    custom_label_list: ["Owner"]
+    custom_label_list: ["lol"]
 
 # ---------------------------------------------------------------------------------------
 # Code copy
@@ -158,23 +165,23 @@ local_search:
 # Comment plugin
 # ---------------------------------------------------------------------------------------
 comment:
-  enable: true
+  enable: false
   use: waline # values: waline | gitalk | twikoo
 
   # Waline
   # See: https://waline.js.org/guide/get-started.html
   waline:
-    serverUrl: https://redefine-waline.vercel.app # Waline server url(vercel) example: https://example.example.com
-    lang: zh-CN   # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
-    dark: auto    # Waline dark mode, default: auto. See: https://waline.js.org/reference/component.html#dark
-    # requiredMeta: ['nick','mail'] # Waline required meta, default: [nick], see: https://waline.js.org/reference/component.html#requiredmeta
+    serverUrl:  # Waline server url(vercel) example: https://example.example.com
+    lang: zh-CN # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
+    dark: auto # Waline dark mode, default: auto. See: https://waline.js.org/reference/component.html#dark
+    requiredMeta: ['nick'] # Waline required meta, default: ['nick'], see: https://waline.js.org/reference/component.html#requiredmeta
 
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
-    github_id:   # GitHub repo owner
-    repository:  # Repository name to store issues
-    client_id:   # GitHub Application Client ID
+    github_id: # GitHub repo owner
+    repository: # Repository name to store issues
+    client_id: # GitHub Application Client ID
     client_secret: # GitHub Application Client Secret
 
   # Twikoo
@@ -220,4 +227,4 @@ footer:
 # ---------------------------------------------------------------------------------------
 # Redefine Theme version (Please don't modify)
 # ---------------------------------------------------------------------------------------
-version: 0.2.0
+version: 0.3.0

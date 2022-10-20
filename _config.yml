@@ -4,16 +4,16 @@
 
 # Site
 title: Theme Redefine
-subtitle:
-description:
-keywords:
+subtitle: Redefine Theme Demo Site
+description: This is Hexo Theme Redefine official demo site. You can see the theme in action here. 
+keywords: "Hexo, Theme, Redefine, Demo, Site, hexo-theme-redefine, hexo-theme, simple, pure"
 author: EvanNotFound
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://redefine.evanluo.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
