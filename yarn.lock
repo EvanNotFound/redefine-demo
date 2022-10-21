@@ -701,11 +701,6 @@
   "resolved" "https://registry.npmjs.org/hexo-theme-keep/-/hexo-theme-keep-3.4.9.tgz"
   "version" "3.4.9"
 
-"hexo-theme-redefine@^0.3.0":
-  "integrity" "sha512-FZCZN917435GPRtVA0q+SroUxYZDzsYc0Y/RIhz0CaH10VKR9+icO0NoYjtjlPFZKHbT8E0ocjYM1Ovjg0Rzow=="
-  "resolved" "https://registry.npmjs.org/hexo-theme-redefine/-/hexo-theme-redefine-0.3.0.tgz"
-  "version" "0.3.0"
-
 "hexo-util@^2.0.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0":
   "integrity" "sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ=="
   "resolved" "https://registry.npmjs.org/hexo-util/-/hexo-util-2.7.0.tgz"
