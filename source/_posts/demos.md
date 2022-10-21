@@ -1,47 +1,20 @@
 ---
-title: 主题样式 Demo
-date: 2022-10-02 19:07:05
-tags: "demo"
-sticky: 999
+title: "Blog 新功能测试网页"
+date: "2022-09-06 10:11"
+categories: 
+  - "文章"
+  - "测试"
+tags:
+  - "测试"
+  -	"demo"
+keywords: "demo,function"
+link: demos
+layout: post
 ---
 
-# H1 标题
+本页面均为个人为博客增加的东西
 
-## H2 标题
-
-### H3 标题
-
-#### H4标题
-
-##### H5 标题
-
-###### H6 标题
-
-**加粗**
-
-*斜体*
-
-~~删除线~~
-
-这是一段文本
-
-![Screen Shot 2022-10-02 at 9.26.37 PM](https://evan.beee.top/img/Screen%20Shot%202022-10-02%20at%209.26.37%20PM.png)
-
-`行内代码`
-
-```
-代码块
-```
-
-```python
-print("代码高亮")
-```
-
-
-
-# 功能展示
-
-## Font Awesome 6.1.0
+## Font Awesome 6.1.0 (2022/9/2)
 
 **Solid:** <i class="fa-solid fa-house"></i> <i class="fa-solid fa-envelope"></i>
 
@@ -53,17 +26,13 @@ print("代码高亮")
 
 **Duotone:** <i class="fa-duotone fa-house"></i> <i class="fa-duotone fa-envelope"></i>
 
-<link href="/css/thin.min.css" rel="stylesheet" type="text/css">
-
-<link href="/css/light.min.css" rel="stylesheet" type="text/css">
 
 
-
-## 警告系列
+## 警告系列 (2022/9/6)
 
 <div class="wr">
   <div class="t">
-    警告
+    红色警告
   </div>
   <div class="c">
     这是内容
@@ -81,66 +50,60 @@ print("代码高亮")
   </div>
 </div>
 
-
 <br>
 
 <div class="wy">
   <div class="t">
-    注意
+    黄色警告
   </div>
   <div class="c">
     这是内容
   </div>
 </div>
-
 
 <br>
 
 <div class="wg">
   <div class="t">
-    提示
+    绿色警告
   </div>
   <div class="c">
     这是内容
   </div>
 </div>
-
 
 <br>
 
 <div class="wb">
   <div class="t">
-    蓝色笔记
+    蓝色警告
   </div>
   <div class="c">
     这是内容
   </div>
 </div>
-
 
 <br>
 
 <div class="wp">
   <div class="t">
-    紫色提示
+    紫色警告
   </div>
   <div class="c">
     这是内容
   </div>
 </div>
-
 
 <br>
 
 <div class="wgra">
   <div class="t">
-    信息
+    灰色警告
   </div>
   <div class="c">
     这是内容
   </div>
 </div>
-
 
 <br>
 
@@ -148,7 +111,7 @@ print("代码高亮")
 
 
 
-## 笔记系列
+## 笔记系列 (2022/9/6)
 
 
 
@@ -158,13 +121,11 @@ print("代码高亮")
   红色笔记
 </div>
 
-
 <br>
 
 <div class="no">
   橙色笔记
 </div>
-
 
 <br>
 
@@ -172,13 +133,11 @@ print("代码高亮")
   黄色笔记
 </div>
 
-
 <br>
 
 <div class="ng">
   绿色笔记
 </div>
-
 
 <br>
 
@@ -186,18 +145,19 @@ print("代码高亮")
   蓝色笔记
 </div>
 
-
 <br>
 
 <div class="np">
   紫色笔记
 </div>
 
-
 <br>
 
 <div class="ngra">
  灰色笔记
 </div>
-
 <br>
+
+<link href="/css/thin.min.css" rel="stylesheet" type="text/css">
+
+<link href="/css/light.min.css" rel="stylesheet" type="text/css">
