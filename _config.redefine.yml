@@ -25,10 +25,10 @@ style:
   article_img_align: center # value: left | center
 
   # Left side width
-  left_side_width: 240px #sidebar width, for toc
+  right_side_width: 210px #sidebar width, for toc
 
   # Content area max width
-  content_max_width: 960px #content max width, for article
+  content_max_width: 1000px #content max width, for article
 
   #navigation bar background color (from left to right)
   nav_color: 
@@ -44,8 +44,13 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: /images/wallheaven-bg.webp # background image of the first screen, use relative path or external link
-    description: Theme Redefine # the title in the middle of the first screen
+    background_image:
+      light: https://evan.beee.top/img/wallhaven-wqery6-light.webp # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: https://evan.beee.top/img/wallhaven-wqery6-dark.webp # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+    title_color:
+      light: "#fff" # first screen title color (light mode)
+      dark: "#d1d1b6" # first screen title color (dark mode)
+    description: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
 
   # Scroll style settings
   scroll:
@@ -70,17 +75,31 @@ social_contact: # social contact icons in the first screen, you can add more by 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
 # ---------------------------------------------------------------------------------------
-menu: #you can customize
+menu: #you can customize, i18n files are in the theme's languages folder
   Home: /
   Archives: /archives
   Docs: https://redefine-docs.evanluo.top
-  Status: https://status.evanluo.top/
-  Github: https://github.com/EvanNotFound/hexo-theme-redefine
-  Blog: https://www.evanluo.top/
-  # Links: /friends
-  # About: /about
-  # Changelog: /changelog
-  # ......
+  Links:
+    submenu:
+      Status: https://status.evanluo.top/
+      Github: https://github.com/EvanNotFound/hexo-theme-redefine
+      Blog: https://www.evanluo.top/  
+  # Status: https://status.evanluo.top/
+  # About: 
+  #   submenus:
+  #     Me: /about
+  #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
+  #     Blog: https://www.evanluo.top
+  #     Friends: /friends
+  # Links: 
+  #   submenus:
+  #     Link1: /link1
+  #     Link2: /link2
+  #     Link3: /link3
+
+  # ...... # you can add more
+
+
 
 # ---------------------------------------------------------------------------------------
 # Home page article block display settings
@@ -117,7 +136,6 @@ post:
 # ---------------------------------------------------------------------------------------
 code_copy:
   enable: true
-  style: mac # values: default | mac
 
 # ---------------------------------------------------------------------------------------
 # Table of Contents in the Sidebar
@@ -174,8 +192,7 @@ comment:
     serverUrl:  # Waline server url(vercel) example: https://example.example.com
     lang: zh-CN # Waline language, default: zh-CN. See: https://waline.js.org/guide/client/i18n.html
     dark: auto # Waline dark mode, default: auto. See: https://waline.js.org/reference/component.html#dark
-    requiredMeta: ['nick'] # Waline required meta, default: ['nick'], see: https://waline.js.org/reference/component.html#requiredmeta
-
+  
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
@@ -218,13 +235,23 @@ pjax:
   enable: true
 
 # ---------------------------------------------------------------------------------------
+# Fontawesome
+# ---------------------------------------------------------------------------------------
+fontawesome: # select fontawesome versions you want to use, in order to reduce the loading time, select as few as possible
+  thin: false # use fontawesome thin version or not
+  light: false # use fontawesome light version or not
+  duotone: false # use fontawesome duotone version or not
+
+# ---------------------------------------------------------------------------------------
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020 # the starting year of your website, Can be null
+  runtime: true # show website running time or not
+  start_time: 2022/8/17 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
+  customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
 
 # ---------------------------------------------------------------------------------------
 # Redefine Theme version (Please don't modify)
 # ---------------------------------------------------------------------------------------
-version: 0.3.5
+version: 0.4.0
