@@ -24,7 +24,7 @@ style:
   # Article image align position
   article_img_align: center # value: left | center
 
-  # Left side width
+  # Right side width
   right_side_width: 210px #sidebar width, for toc
 
   # Content area max width
@@ -76,10 +76,15 @@ social_contact: # social contact icons in the first screen, you can add more by 
 # Navigation menu
 # ---------------------------------------------------------------------------------------
 menu: #you can customize, i18n files are in the theme's languages folder
-  Home: /
+  Home: 
+    path: / 
+    icon: fa-regular fa-house # can be empty
   Archives: /archives
-  Docs: https://redefine-docs.evanluo.top
+  Docs: 
+    path: https://redefine-docs.evanluo.top
+    icon: fa-regular fa-book
   Links:
+    icon: fa-regular fa-link
     submenus:
       Status: https://status.evanluo.top/
       Github: https://github.com/EvanNotFound/hexo-theme-redefine
@@ -254,4 +259,4 @@ footer:
 # ---------------------------------------------------------------------------------------
 # Redefine Theme version (Please don't modify)
 # ---------------------------------------------------------------------------------------
-version: 0.4.0
+version: 0.4.1
