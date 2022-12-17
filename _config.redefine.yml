@@ -79,7 +79,9 @@ menu: #you can customize, i18n files are in the theme's languages folder
   Home: 
     path: / 
     icon: fa-regular fa-house # can be empty
-  Archives: /archives
+  Archives: 
+    path: /archives 
+    icon: fa-regular fa-archive
   Docs: 
     path: https://redefine-docs.evanluo.top
     icon: fa-regular fa-book
