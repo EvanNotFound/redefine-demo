@@ -85,11 +85,14 @@ menu: #you can customize, i18n files are in the theme's languages folder
   Docs: 
     path: https://redefine-docs.evanluo.top
     icon: fa-regular fa-book
+  Github:
+    icon: fa-brands fa-github
+    path: https://github.com/EvanNotFound/hexo-theme-redefine
   Links:
     icon: fa-regular fa-link
     submenus:
+      About: https://www.evanluo.top/about
       Status: https://status.evanluo.top/
-      Github: https://github.com/EvanNotFound/hexo-theme-redefine
       Blog: https://www.evanluo.top/  
   # Status: https://status.evanluo.top/
   # About: 
