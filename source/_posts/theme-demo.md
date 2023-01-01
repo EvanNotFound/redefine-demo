@@ -53,9 +53,7 @@ print("代码高亮")
 
 **Duotone:** <i class="fa-duotone fa-house"></i> <i class="fa-duotone fa-envelope"></i>
 
-<link href="/css/thin.min.css" rel="stylesheet" type="text/css">
 
-<link href="/css/light.min.css" rel="stylesheet" type="text/css">
 
 
 
