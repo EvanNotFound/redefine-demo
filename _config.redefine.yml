@@ -263,7 +263,3 @@ footer:
   customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
 
-# ---------------------------------------------------------------------------------------
-# Redefine Theme version (Please don't modify)
-# ---------------------------------------------------------------------------------------
-version: 0.4.5
