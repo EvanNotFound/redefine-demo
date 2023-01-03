@@ -30,11 +30,15 @@ style:
   # Content area max width
   content_max_width: 1000px #content max width, for article
 
-  #navigation bar background color (from left to right)
-  nav_color: 
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
-    transparency: 35 #percent (10-99)
+  #navigation bar color
+  nav_bar: 
+    text_color: 
+      light: "#FFF" # navigation bar text color (light mode)
+      dark: "#d1d1b6" # navigation bar text color (dark mode)
+    background_color: # navigation bar background color (from left to right)
+      left: "#f78736" #left side 
+      right: "#367df7"  #right side
+      transparency: 35 #percent (10-99)
 
   # Mouse hover
   hover:
