@@ -57,11 +57,10 @@ $z-index-9 = 1009
 $temp-color = hexo-config('style.primary_color')
 $primary-color = $temp-color ? convert($temp-color) : #0066CC
 
-//navbar background color
-$nav-color-1 = convert(hexo-config('style.nav_bar.background_color.left') + hexo-config('style.nav_bar.background_color.transparency'))
-$nav-color-2 = convert(hexo-config('style.nav_bar.background_color.right') + hexo-config('style.nav_bar.background_color.transparency'))
+//navbar color
+$nav-color-1 = convert(hexo-config('style.nav_color.left') + hexo-config('style.nav_color.transparency'))
+$nav-color-2 = convert(hexo-config('style.nav_color.right') + hexo-config('style.nav_color.transparency'))
 $nav-color-bg = linear-gradient(120deg, $nav-color-1 0%, $nav-color-2 100%)
-
 
 // ========================================================================================
 // light mode color
@@ -98,8 +97,6 @@ $note-type-title-bg = #fdf3e9
 
 $first-screen-text-color = convert(hexo-config('style.first_screen.title_color.light'))
 
-$nav-text-color = hexo-config('style.nav_bar.text_color.light')
-
 
 // ========================================================================================
 // dark mode color
@@ -135,9 +132,7 @@ $dark-note-gray-title-bg = #4e4e4e
 $dark-note-black-title-bg = #1e1e1e
 $dark-note-type-title-bg = #4e3a1e
 
-$dark-first-screen-text-color = convert(hexo-config('style.first_screen.title_color.dark'))
-
-$dark-nav-text-color = hexo-config('style.nav_bar.text_color.dark')
+$first-screen-text-color-dark = convert(hexo-config('style.first_screen.title_color.dark'))
 
 // ========================================================================================
 // background image
@@ -190,9 +185,7 @@ root-color(mode) {
   --note-black-title-bg : mode == 'light' ? $note-black-title-bg : $dark-note-black-title-bg
   --note-purple-title-bg : mode == 'light' ? $note-purple-title-bg : $dark-note-purple-title-bg
   
-  --first-screen-text-color : mode == 'light' ? $first-screen-text-color : $dark-first-screen-text-color
-
-  --nav-text-color : mode == 'light' ? $nav-text-color : $dark-nav-text-color
+  --first-screen-text-color mode == 'light' ? $first-screen-text-color : $first-screen-text-color-dark
 
   --redefine-box-shadow : var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px
   --redefine-box-shadow-hover : var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset
