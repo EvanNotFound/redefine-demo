@@ -3,8 +3,6 @@ title: Markdown
 date: 2007-01-09 9:41:05
 ---
 
-# Markdown: Syntax
-
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
