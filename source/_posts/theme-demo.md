@@ -2,7 +2,7 @@
 title: 主题样式 Demo
 date: 2022-10-02 19:07:05
 tags: "demo"
-thumbnail: "https://evan.beee.top/img/208184324-f2640ade-587a-4f46-8ad1-7b4c1b31394f.webp"
+thumbnail: "https://evan.beee.top/img/redefine-1-final.webp"
 sticky: 999
 ---
 
