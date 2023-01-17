@@ -65,11 +65,11 @@ style:
 social_contact: # social contact icons in the first screen, you can add more by using fontawesome icon names
   enable: true
   links:
-    github:  # your GitHub URL
-    instagram: # your Instagram URL
+    github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
+    npm: https://www.npmjs.com/package/hexo-theme-redefine # your Instagram URL
     zhihu:  # your ZhiHu URL
     twitter:  # your twitter URL
-    email:  # your email
+    email: contact@ohevan.com # your email
     # ...... # you can add more
 
 # ---------------------------------------------------------------------------------------
