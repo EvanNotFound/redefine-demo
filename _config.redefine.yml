@@ -66,13 +66,7 @@ social_contact: # social contact icons in the first screen, you can add more by 
   enable: true
   links:
     github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
-<<<<<<< Updated upstream
-    npm: https://www.npmjs.com/package/hexo-theme-redefine # your Instagram URL
-    zhihu:  # your ZhiHu URL
-    twitter:  # your twitter URL
-=======
     npm: https://www.npmjs.com/package/hexo-theme-redefine # your ZhiHu URL
->>>>>>> Stashed changes
     email: contact@ohevan.com # your email
     # ...... # you can add more
 
