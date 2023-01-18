@@ -66,9 +66,13 @@ social_contact: # social contact icons in the first screen, you can add more by 
   enable: true
   links:
     github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
+<<<<<<< Updated upstream
     npm: https://www.npmjs.com/package/hexo-theme-redefine # your Instagram URL
     zhihu:  # your ZhiHu URL
     twitter:  # your twitter URL
+=======
+    npm: https://www.npmjs.com/package/hexo-theme-redefine # your ZhiHu URL
+>>>>>>> Stashed changes
     email: contact@ohevan.com # your email
     # ...... # you can add more
 
@@ -83,7 +87,7 @@ menu: #you can customize, i18n files are in the theme's languages folder
     path: /archives 
     icon: fa-regular fa-archive
   Docs: 
-    path: https://redefine-docs.evanluo.top
+    path: https://redefine-docs.ohevan.com
     icon: fa-regular fa-book
   Github:
     icon: fa-brands fa-github
@@ -91,7 +95,7 @@ menu: #you can customize, i18n files are in the theme's languages folder
   Links:
     icon: fa-regular fa-link
     submenus:
-      About: https://www.evanluo.top/about
+      About: https://ohevan.com/about
       Status: https://status.ohevan.com
       Blog: https://ohevan.com
       Friends: https://ohevan.com/friends 
@@ -263,3 +267,15 @@ footer:
   customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
 
+
+# ---------------------------------------------------------------------------------------
+# Mermaid JS diagram 
+# ---------------------------------------------------------------------------------------
+mermaid: 
+  enable: true  # default true 
+  version: "9.3.0" # default v9.3.0
+  style: # for more themes, see https://mermaid.js.org/config/theming.html
+    light: default  # default default
+    dark: dark  # default dark 
+  options:  
+  
