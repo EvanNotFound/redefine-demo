@@ -6,7 +6,9 @@ tags: "demo"
 
 
 
-## Mermaid JS
+## Mermaid JS Demo
+
+如无法显示请刷新页面
 
 ```markdown
 	sequenceDiagram
