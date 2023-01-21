@@ -60,150 +60,77 @@ print("代码高亮")
 
 
 
-## 警告系列
+## 大号提示块
 
-<div class="wr">
-  <div class="t">
-    警告
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
+{% notel default 信息 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
-<br>
+{% notel blue 提示 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
-<div class="wo">
-  <div class="t">
-    橙色警告
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
+{% notel green 自定义标题 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
+{% notel yellow 自定义标题 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
-<br>
+{% notel orange 自定义标题 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
-<div class="wy">
-  <div class="t">
-    注意
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
-
-
-<br>
-
-<div class="wg">
-  <div class="t">
-    提示
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
-
-
-<br>
-
-<div class="wb">
-  <div class="t">
-    蓝色笔记
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
-
-<br>
-
-<div class="wp">
-  <div class="t">
-    紫色提示
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
-
-
-<br>
-
-<div class="wgra">
-  <div class="t">
-    信息
-  </div>
-  <div class="c">
-    这是内容
-  </div>
-</div>
-
-
-<br>
-
-
-
-
+{% notel red 自定义标题 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
 ## 笔记系列
 
+{% note  %}
+默认 提示块标签
+{% endnote %}
 
+{% note default  %}
+default 提示块标签
+{% endnote %}
 
-<br>
+{% note primary  %}
+primary 提示块标签
+{% endnote %}
 
-<div class="nr">
-  红色笔记
-</div>
+{% note success  %}
+success 提示块标签
+{% endnote %}
 
+{% note info  %}
+info 提示块标签
+{% endnote %}
 
-<br>
+{% note warning  %}
+warning 提示块标签
+{% endnote %}
 
-<div class="no">
-  橙色笔记
-</div>
+{% note danger  %}
+danger 提示块标签
+{% endnote %}
 
-
-<br>
-
-<div class="ny">
-  黄色笔记
-</div>
-
-
-<br>
-
-<div class="ng">
-  绿色笔记
-</div>
-
-
-<br>
-
-<div class="nb">
-  蓝色笔记
-</div>
-
-
-<br>
-
-<div class="np">
-  紫色笔记
-</div>
-
-
-<br>
-
-<div class="ngra">
- 灰色笔记
-</div>
-<br>
-
-
-
-
+{% note red fa-bolt%}
+自定义提示块标签
+{% endnote %}
 
 ## Mermaid JS
 
