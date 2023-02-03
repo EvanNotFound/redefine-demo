@@ -60,7 +60,9 @@ print("代码高亮")
 
 
 
-## 大号提示块
+## Note Large大号提示块
+
+[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/note-module)
 
 {% notel default 信息 %}
 换行测试
@@ -98,7 +100,9 @@ print("代码高亮")
 换行测试
 {% endnotel %}
 
-## 小号提示块
+## Note 小号提示块
+
+[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/note-module)
 
 {% note  %}
 默认 提示块标签
@@ -132,148 +136,93 @@ danger 提示块标签
 自定义提示块标签
 {% endnote %}
 
-## Mermaid JS
+## Folding 折叠模块
 
-```markdown
-	sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-```
+[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/folding)
 
-```mermaid
-sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-```
+{% folding yellow::Folding 测试： 点击查看更多 %}
+
+{% note danger  %}
+danger 提示块标签
+{% endnote %}
+
+{% note tip  %}
+tip 提示块标签
+{% endnote %}
+
+{% endfolding %}
 
 
 
-```markdown
-  gantt
-    dateFormat  YYYY-MM-DD
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-```
+{% folding green::Folding 测试： 点击查看更多 %}
+
+{% note danger  %}
+danger 提示块标签
+{% endnote %}
+
+{% note tip  %}
+tip 提示块标签
+{% endnote %}
+
+{% endfolding %}
 
 
 
-```mermaid
-gantt
-	dateFormat  YYYY-MM-DD
-  section Section
-  Completed :done,    des1, 2014-01-06,2014-01-08
-  Active        :active,  des2, 2014-01-07, 3d
-  Parallel 1   :         des3, after des1, 1d
-  Parallel 2   :         des4, after des1, 1d
-  Parallel 3   :         des5, after des3, 1d
-  Parallel 4   :         des6, after des4, 1d
+{% folding blue::Folding 测试： 点击查看更多 %}
 
-```
+啊啊啊啊啊
 
+{% note danger  %}
+danger 提示块标签
+{% endnote %}
 
+{% note tip  %}
+tip 提示块标签
+{% endnote %}
 
+{% endfolding %}
 
+## Tabs 分栏模块
 
+[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/tabs)
 
+{% tabs First unique name %}
+<!-- tab First Tab-->
+**This is Tab 1.**
+<!-- endtab -->
 
+<!-- tab Second Tab-->
+**This is Tab 2.**
 
+This is Tab 2.
 
+<!-- endtab -->
 
+<!-- tab Third Tab-->
+**This is Tab 3.**
 
+This is Tab 3.
 
+This is Tab 3.
 
-```markdown
-  stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-```
+<!-- endtab -->
+{% endtabs %}
 
+## Button 按钮模块
 
+[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/buttons)
 
+不设置任何参数的 {% btn 按钮:: / %} 适合融入段落中。
 
+regular 按钮适合独立于段落之外：
 
-```mermaid
-stateDiagram
-	[*] --> Still
-  Still --> [*]
-  Still --> Moving
-  Moving --> Still
-  Moving --> Crash
-  Crash --> [*]
-```
+{% btn regular::示例博客::https://www.ohevan.com::fa-solid fa-play-circle %}
 
+{% btn regular::示例博客::https://www.ohevan.com::fa-solid fa-play-circle %}
 
+large 按钮更具有强调作用，建议搭配 center 使用：
 
-```markdown
-pie
-	"Dogs" : 386
-  "Cats" : 85
-  "Rats" : 15
-```
-
-
-
-
-
-```mermaid
-pie
-	"Dogs" : 386
-  "Cats" : 85
-  "Rats" : 15
-```
-
-
-
-
-
-```markdown
-journey
-  title My working day
-  section Go to work
-    Make tea: 5: Me
-    Go upstairs: 3: Me
-    Do work: 1: Me, Cat
-  section Go home
-    Go downstairs: 5: Me
-    Sit down: 3: Me
-```
-
-
-
-
-
-```mermaid
-journey
-  title My working day
-  section Go to work
-    Make tea: 5: Me
-    Go upstairs: 3: Me
-    Do work: 1: Me, Cat
-  section Go home
-    Go downstairs: 5: Me
-    Sit down: 3: Me
-```
+{% btn center large::开始使用::https://redefine-docs.ohevan.com.::fa-solid fa-download %}
 
 
 
