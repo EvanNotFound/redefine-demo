@@ -222,7 +222,7 @@ regular 按钮适合独立于段落之外：
 
 large 按钮更具有强调作用，建议搭配 center 使用：
 
-{% btn center large::开始使用::https://redefine-docs.ohevan.com.::fa-solid fa-download %}
+{% btn center large::开始使用::https://redefine-docs.ohevan.com::fa-solid fa-download %}
 
 
 
