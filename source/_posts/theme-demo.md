@@ -42,27 +42,23 @@ print("代码高亮")
 
 # 功能展示
 
-## Font Awesome 6.1.0
+## Font Awesome Pro v6.2.1
 
-**Solid:** <i class="fa-solid fa-house"></i> <i class="fa-solid fa-envelope"></i>
+**Solid:** <i class="fa-solid fa-house"></i> <i class="fa-solid fa-envelope"></i> <i class="fa-solid fa-camera-retro"></i> <i class="fa-solid fa-cart-shopping"></i>
 
-**Regular:** <i class="fa-regular fa-house"></i> <i class="fa-regular fa-envelope"></i>
+**Regular:** <i class="fa-regular fa-house"></i> <i class="fa-regular fa-envelope"></i> <i class="fa-regular fa-camera-retro"></i> <i class="fa-regular fa-cart-shopping"></i>
 
-**Light:** <i class="fa-light fa-house"></i> <i class="fa-light fa-envelope"></i>
+**Light:** <i class="fa-light fa-house"></i> <i class="fa-light fa-envelope"></i> <i class="fa-light fa-camera-retro"></i> <i class="fa-light fa-cart-shopping"></i>
 
-**Thin:** <i class="fa-thin fa-house"></i> <i class="fa-thin fa-envelope"></i>
+**Thin:** <i class="fa-thin fa-house"></i> <i class="fa-thin fa-envelope"></i> <i class="fa-thin fa-camera-retro"></i> <i class="fa-thin fa-cart-shopping"></i>
 
-**Duotone:** <i class="fa-duotone fa-house"></i> <i class="fa-duotone fa-envelope"></i>
+**Duotone:** <i class="fa-duotone fa-house"></i> <i class="fa-duotone fa-envelope"></i> <i class="fa-duotone fa-camera-retro"></i> <i class="fa-duotone fa-cart-shopping"></i>
 
-<link href="/css/thin.min.css" rel="stylesheet" type="text/css">
-
-<link href="/css/light.min.css" rel="stylesheet" type="text/css">
-
-
+**Sharp Solid:** <i class="fa-sharp fa-solid fa-house"></i> <i class="fa-sharp fa-solid fa-envelope"></i> <i class="fa-sharp fa-solid fa-camera-retro"></i> <i class="fa-sharp fa-solid fa-cart-shopping"></i>
 
 ## Note Large大号提示块
 
-[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/note-module)
+{% btn center large::文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/note-module::fa-solid fa-book %}
 
 {% notel default 信息 %}
 换行测试
@@ -102,7 +98,7 @@ print("代码高亮")
 
 ## Note 小号提示块
 
-[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/note-module)
+{% btn center large::文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/note-module::fa-solid fa-book %}
 
 {% note  %}
 默认 提示块标签
@@ -138,7 +134,7 @@ danger 提示块标签
 
 ## Folding 折叠模块
 
-[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/folding)
+{% btn center large::文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/folding::fa-solid fa-book %}
 
 {% folding yellow::Folding 测试： 点击查看更多 %}
 
@@ -184,7 +180,7 @@ tip 提示块标签
 
 ## Tabs 分栏模块
 
-[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/tabs)
+{% btn center large::文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/tabs::fa-solid fa-book %}
 
 {% tabs First unique name %}
 <!-- tab First Tab-->
@@ -210,8 +206,6 @@ This is Tab 3.
 
 ## Button 按钮模块
 
-[文档](https://redefine-docs.ohevan.com/docs/advanced/plugins/buttons)
-
 不设置任何参数的 {% btn 按钮:: / %} 适合融入段落中。
 
 regular 按钮适合独立于段落之外：
@@ -222,7 +216,7 @@ regular 按钮适合独立于段落之外：
 
 large 按钮更具有强调作用，建议搭配 center 使用：
 
-{% btn center large::开始使用::https://redefine-docs.ohevan.com::fa-solid fa-download %}
+{% btn center large::开始使用::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/buttons::fa-solid fa-book %}
 
 
 
