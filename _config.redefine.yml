@@ -261,12 +261,13 @@ recommended_article: # 文章推荐，需要 npm install nodejieba
     - wiki/
 
 # ---------------------------------------------------------------------------------------
-# Fontawesome
+# Fontawesome Pro v6.2.1
 # ---------------------------------------------------------------------------------------
 fontawesome: # select fontawesome versions you want to use, in order to reduce the loading time, select as few as possible
   thin: true # use fontawesome thin version or not
   light: true # use fontawesome light version or not
   duotone: true # use fontawesome duotone version or not
+  sharp_solid: true # use fontawesome sharp-solid version or not
 
 # ---------------------------------------------------------------------------------------
 # Footer settings
