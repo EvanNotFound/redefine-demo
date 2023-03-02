@@ -299,10 +299,6 @@ plugins:
   aplayer: # APlayer
     enable: true
     audio:
-      - name: Imagine # audio name
-        artist: John Lennon # audio artist
-        url: https://evan.beee.top/music/Imagine%20-%20John%20Lennon.mp3 # audio url
-        cover: https://evan.beee.top/music/covers/Lennon_Imagine_Sleeve_1975.jpg # audio cover
       - name: Something Just Like This
         artist: Coldplay
         url: https://evan.beee.top/music/Something%20Just%20Like%20This%20-%20The%20Chainsmokers%E3%80%81Coldplay.mp3
@@ -315,6 +311,14 @@ plugins:
         artist: Earth, Wind & Fire
         url: https://evan.beee.top/music/September%20-%20Earth%2C%20Wind%20%26%20Fire%E3%80%81Maurice%20White%E3%80%81Albert%20McKay%E3%80%81Allee%20Willis.mp3
         cover: https://evan.beee.top/music/covers/ab67616d0000b2734dd033f4cf3a0a58059cde69.jpg
+      - name: Imagine # audio name
+        artist: John Lennon # audio artist
+        url: https://evan.beee.top/music/Imagine%20-%20John%20Lennon.mp3 # audio url
+        cover: https://evan.beee.top/music/covers/Lennon_Imagine_Sleeve_1975.jpg # audio cover
+      - name: 7 Years
+        artist: Lukas Graham
+        url: https://evan.beee.top/music/7%20Years%20-%20Lukas%20Graham.mp3
+        cover: https://evan.beee.top/music/covers/7-Years-by-Lukas-Graham.jpg
 
 # ---------------------------------------------------------------------------------------
 # Mermaid JS diagram 
