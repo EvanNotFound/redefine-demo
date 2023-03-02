@@ -280,6 +280,41 @@ footer:
     number: # ICP record number
     url: # ICP record url
 
+# ---------------------------------------------------------------------------------------
+# Custom html code
+# ---------------------------------------------------------------------------------------
+inject:
+  enable: false
+  head: # inject code into <head> tag
+    - 
+    - 
+  footer: # inject code into <footer> tag
+    - 
+    - 
+
+# ---------------------------------------------------------------------------------------
+# Theme plugins
+# ---------------------------------------------------------------------------------------
+plugins:
+  aplayer: # APlayer
+    enable: true
+    audio:
+      - name: Imagine # audio name
+        artist: John Lennon # audio artist
+        url: https://evan.beee.top/music/Imagine%20-%20John%20Lennon.mp3 # audio url
+        cover: https://evan.beee.top/music/covers/Lennon_Imagine_Sleeve_1975.jpg # audio cover
+      - name: Something Just Like This
+        artist: Coldplay
+        url: https://evan.beee.top/music/Something%20Just%20Like%20This%20-%20The%20Chainsmokers%E3%80%81Coldplay.mp3
+        cover: https://evan.beee.top/music/covers/Something_Just_Like_This.png
+      - name: Fly Away
+        artist: Tones and I
+        url: https://evan.beee.top/music/Fly%20Away%20-%20Tones%20and%20I.mp3
+        cover: https://evan.beee.top/music/covers/Tones_and_I_-_Fly_Away.png
+      - name: September
+        artist: Earth, Wind & Fire
+        url: https://evan.beee.top/music/September%20-%20Earth%2C%20Wind%20%26%20Fire%E3%80%81Maurice%20White%E3%80%81Albert%20McKay%E3%80%81Allee%20Willis.mp3
+        cover: https://evan.beee.top/music/covers/ab67616d0000b2734dd033f4cf3a0a58059cde69.jpg
 
 # ---------------------------------------------------------------------------------------
 # Mermaid JS diagram 
