@@ -3,30 +3,6 @@ title: Markdown
 date: 2007-01-09 9:41:05
 ---
 
-*   [Overview](#overview)
-    *   [Philosophy](#philosophy)
-    *   [Inline HTML](#html)
-    *   [Automatic Escaping for Special Characters](#autoescape)
-*   [Block Elements](#block)
-    *   [Paragraphs and Line Breaks](#p)
-    *   [Headers](#header)
-    *   [Blockquotes](#blockquote)
-    *   [Lists](#list)
-    *   [Code Blocks](#precode)
-    *   [Horizontal Rules](#hr)
-*   [Span Elements](#span)
-    *   [Links](#link)
-    *   [Emphasis](#em)
-    *   [Code](#code)
-    *   [Images](#img)
-*   [Miscellaneous](#misc)
-    *   [Backslash Escapes](#backslash)
-    *   [Automatic Links](#autolink)
-
-**Note:** This document is itself written using Markdown; you can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).
-
-----
-
 ## Overview
 
 ### Philosophy
@@ -94,8 +70,7 @@ Any decent text editor should make email-style quoting easy. For example, with B
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
-Unordered lists use asterisks, pluses, and hyphens -- interchangably
--- as list markers:
+Unordered lists use asterisks, pluses, and hyphens -- interchangably -- as list markers:
 
 *   Red
 *   Green
@@ -206,7 +181,9 @@ end tell
 
 A code block continues until it reaches a line that is not indented (or the end of the article).
 
-Within a code block, ampersands (`&`) and angle brackets (`<` and `>`) are automatically converted into HTML entities. This makes it very easy to include example HTML source code using Markdown -- just paste it and indent it, and Markdown will handle the hassle of encoding the ampersands and angle brackets. For example, this:
+Within a code block, ampersands (`&`) and angle brackets (`<` and `>`) are automatically converted into HTML entities. 
+
+This makes it very easy to include example HTML source code using Markdown -- just paste it and indent it, and Markdown will handle the hassle of encoding the ampersands and angle brackets. For example, this:
 
 ```html
 <div class="footer">
