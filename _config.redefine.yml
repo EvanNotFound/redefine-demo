@@ -20,6 +20,9 @@ style:
 
   # Favicon (You can use local image or image external link)
   favicon: /images/redefine-logo.svg # favicon of the site
+  og_image: # og:image of the site
+    enable: false
+    image_url: # image url
 
   # Article image align position
   article_img_align: center # value: left | center
@@ -51,6 +54,10 @@ style:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
     description: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    custom_font: # custom font for the first screen
+      enable: false
+      font_family: # the font family name of the url below
+      font_url:  # The url to the font file
 
   # Scroll style settings
   scroll:
@@ -92,7 +99,7 @@ menu: #you can customize, i18n files are in the theme's languages folder
       About: https://ohevan.com/about
       Status: https://status.ohevan.com
       Blog: https://ohevan.com
-      Friends: https://ohevan.com/friends 
+      Shuoshuo: /essays
       Showcase: /showcase
   # Status: https://status.evanluo.top/
   # About: 
@@ -115,6 +122,7 @@ menu: #you can customize, i18n files are in the theme's languages folder
 # Home page article block display settings
 # ---------------------------------------------------------------------------------------
 home_article:
+  date_format: auto # date format in home page article block, value: auto | relative | YYYY-MM-DD | YYYY.MM.DD HH:mm:ss | DD/MM/YYYY | and etc. Support moment js format, see: https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/
   category:
     enable: true # show category in home page article block
     limit: 3 # max number of categories shown in home page article block
@@ -147,6 +155,10 @@ post:
 code_block:
   copy: true # enable code copy button
   style: mac # mac | simple
+  custom_font: # custom font family, default: Ubuntu Mono
+    enable: false
+    font_family: # font family name
+    font_url: # font url
 
 # ---------------------------------------------------------------------------------------
 # Table of Contents in the Sidebar
@@ -218,6 +230,12 @@ comment:
     visitor: true
     env_id: # Vercel or Tencent Cloud Function environment ID
     region: # environment region. If select Guangzhou, fill in "ap-guangzhou". (optional)
+
+# ---------------------------------------------------------------------------------------
+# Friend Links page
+# ---------------------------------------------------------------------------------------
+friend_links:
+  columns: 2 # number of columns. 2 or 3
 
 # ---------------------------------------------------------------------------------------
 # RSS

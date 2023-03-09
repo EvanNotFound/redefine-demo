@@ -1,8 +1,8 @@
 <div align="right">
   Language:
   简中
-  <a title="Chinese" href="README.md">English</a>
-  <a title="Chinese" href="README_zh-TW.md">繁中</a>
+  | <a title="Chinese" href="README.md">English</a>
+  | <a title="Chinese" href="README_zh-TW.md">繁中</a>
 </div>
 
 <a href="https://redefine.ohevan.com"><img align="center" src="https://user-images.githubusercontent.com/68590232/218364072-45dd3a00-ae5e-4e25-8823-cea59fc73e36.png"  alt="Redefine"></a>
@@ -38,7 +38,7 @@
 - [数学公式](https://redefine-docs.ohevan.com/docs/advanced/writing-modules/mathjax)
 - 代码块语言显示
 - Light/Dark 模式切换
-- [Font Awesome 6.1.0 Pro](https://redefine-docs.ohevan.com/docs/configuration-guide/fontawesome)（包含 Duotone/Regular/Thin 等不同样式）
+- [Font Awesome 6.2.1 Pro](https://redefine-docs.ohevan.com/docs/configuration-guide/fontawesome)（包含 Duotone/Regular/Thin 等不同样式）
 - [下拉菜单](https://redefine-docs.ohevan.com/docs/configuration-guide/menu)
 - [可自定义页脚](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
 - [网站运行时间显示](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
@@ -46,6 +46,7 @@
 - [Mermaid JS 支持](https://redefine-docs.ohevan.com/docs/advanced/writing-modules/mermaid)
 - SEO 友好
 - [Aplayer 音乐播放器支持](https://redefine-docs.ohevan.com/docs/advanced/theme-plugins/aplayer)
+- [说说模块](https://redefine-docs.ohevan.com/docs/advanced/shuoshuo/essays)
 
 ## ☁️ 安装
 
