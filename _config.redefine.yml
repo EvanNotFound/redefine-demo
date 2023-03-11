@@ -59,7 +59,7 @@ style:
     line_height: 1.2 # first screen title line height
     title: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
     subtitle: 
-      enable: false
+      enable: true
       list: ['Redefine your writing.','A simple & fast & pure theme.']
     custom_font: # custom font for the first screen
       enable: false
