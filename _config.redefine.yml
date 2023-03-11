@@ -53,7 +53,14 @@ style:
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
-    description: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    font_sizes:
+      title: 2.8rem # first screen title font size
+      subtitle: 1.5rem # first screen subtitle font size
+    line_height: 1.2 # first screen title line height
+    title: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    subtitle: 
+      enable: false
+      list: ['Redefine your writing.','A simple & fast & pure theme.']
     custom_font: # custom font for the first screen
       enable: false
       font_family: # the font family name of the url below
@@ -228,6 +235,7 @@ comment:
   # See: https://github.com/imaegoo/twikoo
   twikoo:
     visitor: true
+    version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
     env_id: # Vercel or Tencent Cloud Function environment ID
     region: # environment region. If select Guangzhou, fill in "ap-guangzhou". (optional)
 
@@ -261,7 +269,6 @@ cdn:
   # For donation, please see https://github.com/EvanNotFound/hexo-theme-redefine/blob/dev/DONATION.md
   # Thank you for your support.
 
-
 # ---------------------------------------------------------------------------------------
 # PJAX
 # ---------------------------------------------------------------------------------------
@@ -269,7 +276,7 @@ pjax:
   enable: true
 
 # ---------------------------------------------------------------------------------------
-# Article recommendation (transplant from Volantis)
+# Article recommendation (transplanted from Volantis)
 # ---------------------------------------------------------------------------------------
 recommended_article: # 文章推荐，需要 npm install nodejieba
   enable: true
@@ -297,6 +304,7 @@ fontawesome: # select fontawesome versions you want to use, in order to reduce t
 # ---------------------------------------------------------------------------------------
 footer:
   runtime: true # show website running time or not
+  icon: '<i class="fa-solid fa-code-pull-request"></i>' # footer icon, write fontawesome html code here
   start_time: 2022/8/17 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
   customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
@@ -320,7 +328,7 @@ inject:
 # Theme plugins
 # ---------------------------------------------------------------------------------------
 plugins:
-  aplayer: # APlayer
+  aplayer: # APlayer (fixed version)
     enable: true
     audio:
       - name: Something Just Like This
@@ -343,15 +351,6 @@ plugins:
         artist: Lukas Graham
         url: https://evan.beee.top/music/7%20Years%20-%20Lukas%20Graham.mp3
         cover: https://evan.beee.top/music/covers/7-Years-by-Lukas-Graham.jpg
-
-# ---------------------------------------------------------------------------------------
-# Mermaid JS diagram 
-# ---------------------------------------------------------------------------------------
-mermaid: 
-  enable: true  # default true 
-  version: "9.3.0" # default v9.3.0
-  style: # for more themes, see https://mermaid.js.org/config/theming.html
-    light: default  # default default
-    dark: dark  # default dark 
-  options:  
-  
+  mermaid: # Mermaid JS
+    enable: true  # default true 
+    version: "9.3.0" # default v9.3.0
