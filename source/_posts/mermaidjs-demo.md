@@ -5,9 +5,6 @@ tags: "demo"
 ---
 
 
-
-如无法显示请刷新页面
-
 ```markdown
 	sequenceDiagram
     Alice->>John: Hello John, how are you?
