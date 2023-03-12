@@ -1,7 +1,9 @@
 ---
 title: Mermaid JS Demo
 date: 2023-1-16 20:08:06
-tags: "demo"
+tags: 
+  - "Demo"
+  - "Mermaid JS"
 ---
 
 

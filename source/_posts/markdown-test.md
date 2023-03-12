@@ -1,6 +1,12 @@
 ---
 title: Markdown
 date: 2007-01-09 9:41:05
+tags:
+    - "Demo"
+    - "Hexo Theme"
+    - "Markdown"
+    - "Hexo Theme Redefine"
+    - "Hexo"
 ---
 
 ## Overview
