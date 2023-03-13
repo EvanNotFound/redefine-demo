@@ -19,16 +19,17 @@
 
 ## 📷 屏幕截圖
 
-![redefine-1-final](https://user-images.githubusercontent.com/68590232/216494120-c2021614-118d-4554-aa07-06bc96631e8f.png)
-![redefine-2-final](https://user-images.githubusercontent.com/68590232/216494132-76586fad-e959-401c-b0b7-25e5f187dc39.png)
-![redefine-3-final](https://user-images.githubusercontent.com/68590232/216494137-d25d02e5-c7d2-4fc8-932f-bd9aee6e874f.png)
+![redefine-1-final](https://user-images.githubusercontent.com/68590232/224550641-72b2a0d4-e30d-41c5-b3cb-7cc86be14e31.png)
+![redefine-2-final](https://user-images.githubusercontent.com/68590232/224550645-07d6b624-fa7c-40aa-90f8-873c958afa30.png)
+![redefine-3-final](https://user-images.githubusercontent.com/68590232/224550647-e194348c-2a3b-4738-b978-60f11c952365.png)
 
 
 
 ## 🌐 在線演示站
 
 - [EvanNotFound's Blog](https://ohevan.com)
-- [Theme Redefine Demo](https://redefine.ohevan.com)
+- [Theme Redefine 演示站点](https://redefine.ohevan.com)
+- [Theme Redefine 开发站点](https://redefine-dev.ohevan.com)
 - [Redefine 用戶牆](https://redefine.ohevan.com/showcase)
 
 如果你也在使用 Redefine，歡迎在前往 [Redefine 用戶牆](https://redefine.ohevan.com/showcase) 添加你的博客鏈接。
@@ -45,7 +46,7 @@
 - [可自定義頁腳](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
 - [網站運行時間顯示](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
 - [文章頭圖](https://redefine-docs.ohevan.com/docs/advanced/home-contents/thumbnail)
-- [Mermaid JS 支持](https://redefine-docs.ohevan.com/docs/advanced/writing-modules/mermaid)
+- [Mermaid JS 支持](https://redefine-docs.ohevan.com/docs/advanced/theme-plugins/mermaid)
 - SEO 友好
 - [Aplayer 音乐播放器支持](https://redefine-docs.ohevan.com/docs/advanced/theme-plugins/aplayer)
 - [说说模块](https://redefine-docs.ohevan.com/docs/advanced/shuoshuo/essays)
@@ -103,6 +104,8 @@ $ git clone https://github.com/EvanNotFound/hexo-theme-redefine.git themes/redef
 如有問題，請發郵件到 [contact@ohevan.com](mailto:contact@ohevan.com). 我會及時回复
 
 如果我做的主題還不錯的話，歡迎給我 Github 點個 Star，謝謝
+
+如果你在使用 [Typora](https://typora.io/) 編輯器寫文章，歡迎查看我寫的 [Typora Redefine 主題](https://github.com/EvanNotFound/typora-theme-redefine)，按照本 Hexo 主題樣式編寫，讓你可以直接預覽文章效果，更好排版。
 
 ## 💗 贊助
 

@@ -1,7 +1,11 @@
 ---
 title: 主题样式 Demo
 date: 2022-10-02 19:07:05
-tags: "demo"
+tags: 
+    - "Demo"
+    - "Hexo"
+    - "Hexo Theme"
+    - "Hexo Theme Redefine"
 thumbnail: https://evan.beee.top/img/redefine-1-final.webp
 sticky: 999
 ---

@@ -1,12 +1,11 @@
 ---
 title: Mermaid JS Demo
 date: 2023-1-16 20:08:06
-tags: "demo"
+tags: 
+  - "Demo"
+  - "Mermaid JS"
 ---
 
-
-
-如无法显示请刷新页面
 
 ```markdown
 	sequenceDiagram
