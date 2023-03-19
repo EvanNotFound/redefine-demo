@@ -19,7 +19,7 @@ style:
   avatar: /images/redefine-avatar.svg # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/redefine-logo.svg # favicon of the site
+  favicon: /images/redefine-favicon.svg # favicon of the site
   og_image: # og:image of the site
     enable: false
     image_url: # image url
@@ -253,6 +253,12 @@ friend_links:
   columns: 2 # number of columns. 2 or 3
 
 # ---------------------------------------------------------------------------------------
+# Tags Page
+# ---------------------------------------------------------------------------------------
+tags:
+  style: blur # blur | cloud
+
+# ---------------------------------------------------------------------------------------
 # RSS
 # Dependencies: hexo-generator-feed
 # See: https://github.com/hexojs/hexo-generator-feed
@@ -355,4 +361,4 @@ plugins:
 # Please go to github to update the latest version frequently
 # Github: https://github.com/EvanNotFound/hexo-theme-redefine
 # ---------------------------------------------------------------------------------------
-version: 1.2.1 #DELETE THIS LINE IN YOUR _config.redefine.yml
+version: 1.2.2 #DELETE THIS LINE IN YOUR _config.redefine.yml
