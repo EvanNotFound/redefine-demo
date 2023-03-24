@@ -69,9 +69,9 @@ style:
   # Scroll style settings
   scroll:
     progress_bar: # reading progress bar
-      enable: true 
-    percent: # reading progress percent
       enable: false
+    percent: # reading progress percent
+      enable: true
 
 # ---------------------------------------------------------------------------------------
 # Custom Settings
