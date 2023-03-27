@@ -13,6 +13,8 @@
 
 "Redefine" 是一個簡潔、快速、純净的 hexo 主題。簡潔，但不簡單。本主題包含很多廣泛使用的功能，並擁有著優秀的設計。
 
+本主題基於 [hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) 開發，感謝 XPoet 的開源。本主題主要優化了樣式，增加了寫作模塊，以及各種插件的支持。同時加大自定義程度，讓你可以更加方便的使用本主題。
+
 [![NPM version](https://img.shields.io/npm/v/hexo-theme-redefine?color=red&logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-redefine) [![npm](https://img.shields.io/npm/dw/hexo-theme-redefine?logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-redefine) [![npm-total](https://img.shields.io/npm/dt/hexo-theme-redefine?logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-redefine) [![Github License](https://img.shields.io/github/license/EvanNotFound/hexo-theme-redefine.svg?style=flat-square)](https://github.com/EvanNotFound/hexo-theme-redefine/blob/main/LICENSE) [![Required Hexo version](https://img.shields.io/badge/hexo-%3E=5.0.0-blue?style=flat-square&logo=hexo)](https://hexo.io) [![Node.js Version](https://img.shields.io/badge/node-%3E=12.0-success.svg?style=flat-square&logo=Node.js&longCache=true)](https://hexo.io)
 
 
@@ -36,21 +38,21 @@
 
 ## ⛰️ 部分功能
 
-- [筆記模塊](https://redefine-docs.ohevan.com/docs/advanced/writing-modules/note-module)
-- [友鏈樣式](https://redefine-docs.ohevan.com/docs/advanced/friend-link)
-- [數學公式](https://redefine-docs.ohevan.com/docs/advanced/writing-modules/mathjax)
+- [筆記模塊](https://redefine-docs.ohevan.com/modules/notes)
+- [友鏈樣式](https://redefine-docs.ohevan.com/page_templates/friends)
+- [數學公式](https://redefine-docs.ohevan.com/plugins/mathjax)
 - 代碼塊語言顯示
 - Light/Dark 模式切換
-- [Font Awesome 6.2.1 Pro](https://redefine-docs.ohevan.com/docs/configuration-guide/fontawesome)（包含 Duotone/Regular/Thin/Sharp 等不同樣式）
-- [下拉菜單](https://redefine-docs.ohevan.com/docs/configuration-guide/menu)
-- [可自定義頁腳](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
-- [網站運行時間顯示](https://redefine-docs.ohevan.com/docs/configuration-guide/footer)
-- [文章頭圖](https://redefine-docs.ohevan.com/docs/advanced/home-contents/thumbnail)
-- [Mermaid JS 支持](https://redefine-docs.ohevan.com/docs/advanced/theme-plugins/mermaid)
+- [Font Awesome 6.2.1 Pro](https://redefine-docs.ohevan.com/basic/fontawesome)（包含 Duotone/Regular/Thin 等不同樣式）
+- [下拉菜單](https://redefine-docs.ohevan.com/dhome/navbar#%E9%93%BE%E6%8E%A5%E5%88%97%E8%A1%A8)
+- [可自定義頁腳](https://redefine-docs.ohevan.com/footer)
+- [網站運行時間顯示](https://redefine-docs.ohevan.com/footer#%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4)
+- [文章頭圖](https://redefine-docs.ohevan.com/article_customize/banner)
+- [Mermaid JS 支持](https://redefine-docs.ohevan.com/plugins/mermaid)
 - SEO 友好
-- [Aplayer 音乐播放器支持](https://redefine-docs.ohevan.com/docs/advanced/theme-plugins/aplayer)
-- [说说模块](https://redefine-docs.ohevan.com/docs/advanced/shuoshuo/essays)
-- [自定义字体](https://redefine-docs.ohevan.com/docs/configuration-guide/custom)
+- [Aplayer 音樂播放器支持](https://redefine-docs.ohevan.com/plugins/aplayer)
+- [說說模塊](https://redefine-docs.ohevan.com/shuoshuo)
+- [自定義字體](https://redefine-docs.ohevan.com/basic/global#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93)
 
 ## ☁️ 安裝
 
@@ -104,7 +106,7 @@ $ git clone https://github.com/EvanNotFound/hexo-theme-redefine.git themes/redef
 
 如有問題，請發郵件到 [contact@ohevan.com](mailto:contact@ohevan.com). 我會及時回复
 
-如果我做的主題還不錯的話，歡迎給我 Github 點個 Star，謝謝
+如果你覺得主題還不錯的話，歡迎給我 Github 點個 Star，謝謝
 
 如果你在使用 [Typora](https://typora.io/) 編輯器寫文章，歡迎查看我寫的 [Typora Redefine 主題](https://github.com/EvanNotFound/typora-theme-redefine)，按照本 Hexo 主題樣式編寫，讓你可以直接預覽文章效果，更好排版。
 
