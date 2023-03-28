@@ -141,7 +141,7 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links
     links:
       github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
