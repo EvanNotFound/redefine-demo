@@ -49,12 +49,12 @@
         temp_min2read_count = 0;
     }
     %>
-    <% if(is_post() && theme.hasOwnProperty('post') && theme.articles.word_count.enable && theme.articles.word_count.wordcount && temp_wordcount_count){ %>
+    <% if(is_post() && theme.hasOwnProperty('articles') && theme.articles.word_count.enable && theme.articles.word_count.wordcount && temp_wordcount_count){ %>
         <span class="article-wordcount article-meta-item">
             <i class="fa-regular fa-file-word"></i>&nbsp;<span><%= temp_wordcount_count %> <%- __('wordcount') %></span>
         </span>
     <% } %>
-    <% if(is_post() && theme.hasOwnProperty('post') && theme.articles.word_count.enable && theme.articles.word_count.min2read && temp_min2read_count){ %>
+    <% if(is_post() && theme.hasOwnProperty('articles') && theme.articles.word_count.enable && theme.articles.word_count.min2read && temp_min2read_count){ %>
         <span class="article-min2read article-meta-item">
             <i class="fa-regular fa-clock"></i>&nbsp;<span><%= temp_min2read_count %> <%- __('min2read') %></span>
         </span>
