@@ -8,9 +8,4 @@ public/
 .env
 .env.build
 .vercel
-package-lock.json
-yarn.lock
-yarn.lock
-yarn.lock
-*.lock
 themes/redefine/.com.greenworldsoft.syncfolderspro
