@@ -208,9 +208,6 @@ home:
     position: left # Sidebar position. left, right
     announcement: # Announcement text
     links:
-      Github:
-        icon: fa-brands fa-github
-        path: https://github.com/EvanNotFound/hexo-theme-redefine
       Archives: 
         path: /archives 
         icon: fa-regular fa-archive # can be empty
@@ -223,9 +220,6 @@ home:
       Shuoshuo:
         path: /essays
         icon: fa-regular fa-comment-dots
-      Status:
-        path: https://status.ohevan.com
-        icon: fa-regular fa-chart-bar
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
