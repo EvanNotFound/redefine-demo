@@ -206,7 +206,7 @@ home:
   sidebar:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
-    announcement: # Announcement text
+    announcement: Redefine your writing. # Announcement text
     links:
       Archives: 
         path: /archives 
