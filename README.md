@@ -1,21 +1,12 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
 
-# Hexo Example
+![releasev210](https://user-images.githubusercontent.com/68590232/229385275-8574e13f-8b59-4b7e-8c4a-84bc92fa33bf.png)
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+# Redefine 主题 Demo
 
-## Deploy Your Own
+欢迎查看 `_config.redefine.yml` 配置进行参考。
 
-Deploy your own Hexo project with Vercel.
+主题项目地址：https://github.com/EvanNotFound/hexo-theme-redefine
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hexo&template=hexo)
+主题项目文档：https://redefine-docs.ohevan.com
 
-_Live Example: https://hexo-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
-
-```shell
-$ hexo init project-name
-```
+演示站地址：https://redefine.ohevan.com
