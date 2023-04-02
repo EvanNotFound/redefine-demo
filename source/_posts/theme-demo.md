@@ -62,7 +62,7 @@ print("代码高亮")
 
 ## Note Large大号提示块
 
-{% btn center large::Note Large大号提示块文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/note-module::fa-solid fa-book %}
+{% btn center large::Note Large大号提示块文档::https://redefine-docs.ohevan.com/modules/notes#%E5%A4%A7%E5%8F%B7%E6%8F%90%E7%A4%BA%E5%9D%97::fa-solid fa-book %}
 
 {% notel default 信息 %}
 换行测试
@@ -102,7 +102,7 @@ print("代码高亮")
 
 ## Note 小号提示块
 
-{% btn center large::Note 小号提示块文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/note-module::fa-solid fa-book %}
+{% btn center large::Note 小号提示块文档::https://redefine-docs.ohevan.com/modules/notes#%E5%B0%8F%E5%8F%B7%E6%8F%90%E7%A4%BA%E5%9D%97::fa-solid fa-book %}
 
 {% note  %}
 默认 提示块标签
@@ -138,7 +138,7 @@ danger 提示块标签
 
 ## Folding 折叠模块
 
-{% btn center large::Folding 折叠模块文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/folding::fa-solid fa-book %}
+{% btn center large::Folding 折叠模块文档::https://redefine-docs.ohevan.com/modules/folding::fa-solid fa-book %}
 
 {% folding yellow::Folding 测试： 点击查看更多 %}
 
@@ -184,7 +184,7 @@ tip 提示块标签
 
 ## Tabs 分栏模块
 
-{% btn center large::Tabs 分栏模块文档::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/tabs::fa-solid fa-book %}
+{% btn center large::Tabs 分栏模块文档::https://redefine-docs.ohevan.com/modules/tabs::fa-solid fa-book %}
 
 {% tabs First unique name %}
 <!-- tab First Tab-->
@@ -220,7 +220,7 @@ regular 按钮适合独立于段落之外：
 
 large 按钮更具有强调作用，建议搭配 center 使用：
 
-{% btn center large::Button 按钮模块 开始使用::https://redefine-docs.ohevan.com/docs/advanced/writing-modules/buttons::fa-solid fa-book %}
+{% btn center large::Button 按钮模块 开始使用::https://redefine-docs.ohevan.com/modules/buttons::fa-solid fa-book %}
 
 
 
