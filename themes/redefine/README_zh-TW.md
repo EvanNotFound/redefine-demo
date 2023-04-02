@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://img.shields.io/badge/-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-A31F34?style=for-the-badge" alt="language">
-  <a title="en" href="README.md"><img src="https://img.shields.io/badge/-English-545759?style=for-the-badge" alt="english"></a>
-  <a title="zh-CN" href="README_zh-CN.md">  <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
+  <a title="en" href="README_en.md"><img src="https://img.shields.io/badge/-English-545759?style=for-the-badge" alt="english"></a>
+  <a title="zh-CN" href="README.md">  <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
 </div>
 
 <a href="https://redefine.ohevan.com"><img align="center" src="https://user-images.githubusercontent.com/68590232/226141917-68124e8f-fde0-4edd-b86d-c62932ec369a.png"  alt="Redefine"></a>
@@ -32,11 +32,11 @@
 
 ## 📷 屏幕截圖
 
-![redefine-1-final](https://user-images.githubusercontent.com/68590232/228013035-a254e19d-18b7-4a40-b769-a5d0d075fe89.png)
+![redefine-1-final](https://user-images.githubusercontent.com/68590232/229380553-d36b0776-b59b-4e46-bcdb-b817546ab84c.png)
 
-![redefine-2-final](https://user-images.githubusercontent.com/68590232/228013043-8df44917-8af9-443c-951a-ceec6663b988.png)
+![redefine-2-final](https://user-images.githubusercontent.com/68590232/229380555-b428de32-a13d-4012-9601-d4634ed1a7de.png)
 
-![redefine-3-final](https://user-images.githubusercontent.com/68590232/228013046-92c3e5b0-9ef3-4203-a0d3-ddf8d5ff3996.png)
+![redefine-3-final](https://user-images.githubusercontent.com/68590232/229380556-45626258-545e-403d-b388-a215ae8e696c.png)
 
 
 ## 🌐 在線演示站
