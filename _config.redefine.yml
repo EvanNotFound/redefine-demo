@@ -169,9 +169,7 @@ navbar:
       icon: fa-regular fa-link
       submenus:
         About: https://ohevan.com/about
-        Status: https://status.ohevan.com
         Blog: https://ohevan.com
-        Shuoshuo: /essays
         Showcase: /showcase
     # Archives: 
     #   path: /archives 
@@ -204,6 +202,31 @@ navbar:
 
 # HOME PAGE ARTICLE SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 home:
+  # Sidebar settings
+  sidebar:
+    enable: true # Whether to enable sidebar
+    position: left # Sidebar position. left, right
+    announcement: # Announcement text
+    links:
+      Github:
+        icon: fa-brands fa-github
+        path: https://github.com/EvanNotFound/hexo-theme-redefine
+      Archives: 
+        path: /archives 
+        icon: fa-regular fa-archive # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
+      Categories: 
+        path: /categories 
+        icon: fa-regular fa-folder # can be empty
+      Shuoshuo:
+        path: /essays
+        icon: fa-regular fa-comment-dots
+      Status:
+        path: https://status.ohevan.com
+        icon: fa-regular fa-chart-bar
+      # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
   # Article categories visibility
@@ -260,8 +283,6 @@ articles:
     enable: true
     # Article recommendation title
     title: 推荐阅读
-    # Article recommendation title icon
-    icon: fa-solid fa-bookmark
     # Max number of articles to display
     limit: 3
     # Placeholder image
