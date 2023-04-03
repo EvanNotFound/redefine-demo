@@ -4,6 +4,9 @@ date: 2023-1-16 20:08:06
 tags: 
   - "Demo"
   - "Mermaid JS"
+categories: 
+  - "Demo"
+  - "Mermaid JS"
 ---
 
 

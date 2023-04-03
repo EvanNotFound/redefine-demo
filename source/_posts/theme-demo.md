@@ -8,6 +8,9 @@ tags:
     - "Hexo Theme Redefine"
 thumbnail: https://evan.beee.top/img/redefine-1-final.webp
 sticky: 999
+categories: 
+    - "Demo"
+    - "Hexo"
 ---
 
 # H1 标题

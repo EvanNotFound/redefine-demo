@@ -7,6 +7,9 @@ tags:
     - "Markdown"
     - "Hexo Theme Redefine"
     - "Hexo"
+categories:
+    - "Demo"
+    - "Hexo"
 ---
 
 ## Overview
