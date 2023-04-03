@@ -5,6 +5,9 @@ thumbnail: "https://evan.beee.top/img/iStock-1054858914.webp"
 tags:
     - "Demo"
     - "Lorem Ipsum"
+categories:
+    - "Demo"
+    - "Lorem Ipsum"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, magna vel tempor bibendum, justo massa bibendum urna, a tincidunt metus velit vel velit. Praesent velit leo, pharetra id mauris sit amet, dictum hendrerit ipsum.
