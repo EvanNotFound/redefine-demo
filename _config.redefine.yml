@@ -364,7 +364,7 @@ plugins:
     enable: true # Whether to enable
   # Aplayer (fixed). See https://github.com/DIYgod/APlayer
   aplayer:
-    enable: true # Whether to enable
+    enable: false # Whether to enable
     type: mini
     audios:
       - name: Something Just Like This
