@@ -1,5 +1,5 @@
 ---
 title: 瀑布流相册
-typr: masonry
+type: masonry
 date: 2023-05-19 21:07:00
 ---
