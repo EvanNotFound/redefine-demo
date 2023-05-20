@@ -230,6 +230,9 @@ home:
       Shuoshuo:
         path: /essays
         icon: fa-regular fa-comment-dots
+      Photos:
+        path: /masonry
+        icon: fa-regular fa-images
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
