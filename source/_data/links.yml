@@ -1,4 +1,4 @@
-- links_category: MVP++ #分类名称
+- links_category: Super #分类名称
   has_thumbnail: true #是否显示网站大图
   list: 
     - name: EvanNotFound's Blog
