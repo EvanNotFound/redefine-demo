@@ -8,7 +8,7 @@ tags:
     - "Hexo Theme Redefine"
     - "Hexo"
 categories:
-    - "Demo"
+    - "Start"
     - "Hexo"
 ---
 
