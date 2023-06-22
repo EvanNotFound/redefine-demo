@@ -1,10 +1,11 @@
 - links_category: MVP++ #分类名称
-  has_thumbnail: false #是否显示网站大图
+  has_thumbnail: true #是否显示网站大图
   list: 
     - name: EvanNotFound's Blog
       link: http://ohevan.com/
       description: EvanNotFound 的个人博客
       avatar: https://evan.beee.top/avatar.png 
+      thumbnail: https://evan.beee.top/img/2023/06/22/f02c7cefeca0558a64fb0b875ff31848.png
 
 
 - links_category: Normal #分类名称
