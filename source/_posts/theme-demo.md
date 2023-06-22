@@ -11,6 +11,7 @@ sticky: 999
 categories: 
     - "Demo"
     - "Hexo"
+    - "Redefine Theme"
 ---
 
 # H1 标题

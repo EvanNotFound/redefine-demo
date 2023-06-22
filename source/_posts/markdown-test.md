@@ -9,7 +9,7 @@ tags:
     - "Hexo"
 categories:
     - "Start"
-    - "Hexo"
+    - "Markdown"
 ---
 
 ## Overview
