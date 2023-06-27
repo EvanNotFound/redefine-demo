@@ -41,7 +41,7 @@
       description: Nearly Dead
       avatar: https://avatars.githubusercontent.com/u/40734342?v=4
 
-- links_category: Normal #分类名称
+- links_category: 主题使用者 / Users #分类名称
   has_thumbnail: false #是否显示网站大图
   list:
     - name: AlexWei的部落阁
