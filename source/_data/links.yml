@@ -1,12 +1,45 @@
-- links_category: Super #分类名称
-  has_thumbnail: true #是否显示网站大图
+- links_category: 主题贡献者 / Contributors #分类名称
+  has_thumbnail: false #是否显示网站大图
   list: 
     - name: EvanNotFound's Blog
       link: http://ohevan.com/
-      description: EvanNotFound 的个人博客
+      description: EvanNotFound 主题作者个人博客
       avatar: https://evan.beee.top/avatar.png 
-      thumbnail: https://evan.beee.top/img/2023/06/22/f02c7cefeca0558a64fb0b875ff31848.png
 
+    - name: Ching367436's blog
+      link: https://ching367436.github.io/
+      description: 是大佬，膜拜膜拜
+      avatar: https://ching367436.github.io/images/Ching367436.jpg
+
+    - name: Minecreeper的小站
+      link: https://minecreeper.top/
+      description: Minecreeper的小站，自己的后院，大家的茶馆
+      avatar: https://evan.beee.top/wp-content/uploads/2022/02/279231644986081_.pic_.jpg
+
+    - name: oXnMe
+      link: https://oxn.me/
+      description: 瞬光斩黯黮 昭明破晦夜
+      avatar: https://vip2.loli.io/2023/05/30/pkYoGbcE8ITXzCs.jpg
+    
+    - name: JiangWen's Blog
+      link: http://blog.jiangwen.site
+      description: 文以载道
+      avatar: https://s2.loli.net/2023/03/10/MGtyxZvRhPWrwHb.png
+
+    - name: 安仔の午睡床
+      link: https://anzai.sleepingbed.top/
+      description: 啊对对对，开摆就完了呗
+      avatar: https://avatars.githubusercontent.com/u/32564494
+
+    - name: Fre5h1nd blog
+      link: https://freshwlnd.github.io/
+      description: 思考，等待，斋戒
+      avatar: https://freshwlnd.github.io/images/favicon.png
+
+    - name: RayAlto's Blog
+      link: https://www.rayalto.pro/
+      description: Nearly Dead
+      avatar: https://avatars.githubusercontent.com/u/40734342?v=4
 
 - links_category: Normal #分类名称
   has_thumbnail: false #是否显示网站大图
@@ -15,11 +48,6 @@
       link: http://alexwei.top/
       description: 屑人&卷王Alexwei的博客，有时候会蚌埠住
       avatar: https://evan.beee.top/wp-content/uploads/2022/02/Screen-Shot-2022-02-13-at-8.39.06-PM.png
-
-    - name: Minecreeper的小站
-      link: https://minecreeper.top/
-      description: Minecreeper的小站，自己的后院，大家的茶馆
-      avatar: https://evan.beee.top/wp-content/uploads/2022/02/279231644986081_.pic_.jpg
 
     - name: 晨曦的小屋
       link: https://xcx2006.github.io
@@ -71,10 +99,6 @@
       description: 生如芥子，心藏须弥
       avatar: https://img1.imgtp.com/2023/03/07/sC0RvlAF.svg
 
-    - name: JiangWen's Blog
-      link: http://blog.jiangwen.site
-      description: 文以载道
-      avatar: https://s2.loli.net/2023/03/10/MGtyxZvRhPWrwHb.png
 
     - name: HOXIANSEN's Blog
       link: https://hoxiansen.top
@@ -103,10 +127,6 @@
       description: 热爱《高木同学》的技术萌新blog
       avatar: https://pic2.imgdb.cn/item/645c58bc0d2dde577762b1fc.jpg
 
-    - name: Fre5h1nd blog
-      link: https://freshwlnd.github.io/
-      description: 思考，等待，斋戒
-      avatar: https://freshwlnd.github.io/images/favicon.png
 
 ## Template
 # - name:
