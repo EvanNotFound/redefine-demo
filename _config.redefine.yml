@@ -427,6 +427,7 @@ cdn:
   # Whether to enable CDN
   enable: true
   # CDN Provider
+
   provider: elemecdn # elemecdn, jsdelivr, unpkg, aliyun, custom
   # Custom CDN URL
   # format example: https://cdn.custom.com/hexo-theme-redefine/${version}/source/${path}
