@@ -426,7 +426,7 @@ page_templates:
 # CDN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 cdn:
   # Whether to enable CDN
-  enable: true
+  enable: false
   # CDN Provider
 
   provider: aliyun # elemecdn, jsdelivr, unpkg, aliyun, custom
