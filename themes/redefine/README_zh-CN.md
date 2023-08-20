@@ -61,6 +61,7 @@
 - [Aplayer 音乐播放器支持](https://redefine-docs.ohevan.com/plugins/aplayer)
 - [说说模块](https://redefine-docs.ohevan.com/shuoshuo)
 - [自定义字体](https://redefine-docs.ohevan.com/basic/global#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93)
+- Tailwind CSS 支持
 
 ## ☁️ 安装
 
@@ -138,8 +139,8 @@ $ git clone https://github.com/EvanNotFound/hexo-theme-redefine.git themes/redef
   </picture>
 </a>
 
-## 📢 其他
+## 💻 主题开发
 
-如果你恰好需要云主机，可以去 [Racknerd](https://my.racknerd.com/aff.php?aff=8346) 看看，性价比高。
+如果你想参与主题开发，请 `clone` 本项目的 `dev` 分支，然后在 `dev` 分支上进行开发。
 
-很多活动，比如 2核 2G 活动价一年只要 20 刀，比国内云便宜而且还没有监管，可以用来部署各种服务。
+同时，请查看 [Redefine 主题开发文档](https://redefine-docs.ohevan.com/developer)。

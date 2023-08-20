@@ -1,5 +1,8 @@
 <footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
     <div class="info-container py-3 text-center">
+        <% if (theme.footer.hasOwnProperty('customize') && theme.footer.customize) { %>
+            <div class="customize-info my-1"><%- theme.footer.customize %></div>
+        <% } %>
         <div class="text-center">
             &copy;
             <% if (theme.footer.hasOwnProperty('start') && theme.footer.start) { %>
@@ -42,9 +45,6 @@
             <div>
                 <%= __('runtime') %> <span class="odometer" id="runtime_days" ></span> <%= __('days') %> <span class="odometer" id="runtime_hours"></span> <%= __('hours') %> <span class="odometer" id="runtime_minutes"></span> <%= __('minutes') %> <span class="odometer" id="runtime_seconds"></span> <%= __('seconds') %>
             </div>
-        <% } %>
-        <% if (theme.footer.hasOwnProperty('customize') && theme.footer.customize) { %>
-            <div class="customize-info my-1"><%- theme.footer.customize %></div>
         <% } %>
         <% if (theme.footer.runtime === true) {%>
             <script <%= theme.global.single_page === true ? 'data-swup-reload-script' : '' %>>
