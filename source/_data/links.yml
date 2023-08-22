@@ -131,6 +131,24 @@
       description: 其他垃圾
       avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNirMe4_othZ1Grt73MRagn_KY9eDXyH0V1hWGu0YPkEgbpl49jmT-FLLM8uSo8--YY8&usqp=CAU
 
+    - name: Last Blog
+      link: https://bloglast.top
+      description: void of myself
+      avatar: https://s2.loli.net/2023/08/02/BW2ev8dOJrjltwT.webp
+      
+    - name: Rem's Blog
+      link: https://Incoparab.gitee.io
+      description: 海内存知己，天涯若比邻。
+      avatar: https://cdn.jsdelivr.net/gh/incoparab/My-img@master/img/OIG.g.EV_joMtXCJr9.jpg
+
+    - name: Krazyu风宇
+      link: https://krazyu.com/
+      description: 终不似，少年游
+      avatar: https://krazyu.com/images/avatar.svg
+
+
+    
+
 
 ## Template
 # - name:
