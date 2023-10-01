@@ -11,6 +11,11 @@
       description: 是大佬，膜拜膜拜
       avatar: https://ching367436.github.io/images/Ching367436.jpg
 
+    - name: Krazyu风宇
+      link: https://krazyu.com/
+      description: 终不似，少年游
+      avatar: https://krazyu.com/images/avatar.svg
+
     - name: Minecreeper的小站
       link: https://minecreeper.top/
       description: Minecreeper的小站，自己的后院，大家的茶馆
@@ -141,11 +146,6 @@
       description: 海内存知己，天涯若比邻。
       avatar: https://cdn.jsdelivr.net/gh/incoparab/My-img@master/img/OIG.g.EV_joMtXCJr9.jpg
 
-    - name: Krazyu风宇
-      link: https://krazyu.com/
-      description: 终不似，少年游
-      avatar: https://krazyu.com/images/avatar.svg
-
     - name: Horean’s Blog
       link: https://blog.hxrch.top
       description: Programming is just like gaming on the code.
@@ -156,7 +156,20 @@
       description: ShawnYan’s Blog.
       avatar: https://shawnyan.cn/img/avatar.jpg
     
+    - name: Metabok
+      link: https://metabok.net
+      description: 一个喜欢二次元的博主日常记录
+      avatar: https://metabok.net/img/200FMWepxJUcAIb-rv.jpg
 
+    - name: Evan’s Blog
+      link: https://zblog.wyun521.top/
+      description: 代码改变世界
+      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+
+    - name: 夏沫花火zzz🌙 (Muska_Ami)のLife
+      link: https://blog.1l1.icu
+      description: Keep doing, keep loving.
+      avatar: https://blog.1l1.icu/images/avatar@round.png
 
 ## Template
 # - name:
