@@ -620,6 +620,22 @@ video {
   top: 2px;
 }
 
+.left-\[49px\] {
+  left: 49px;
+}
+
+.left-\[50px\] {
+  left: 50px;
+}
+
+.left-\[50\3002 5px\] {
+  left: 50。5px;
+}
+
+.left-\[50\.5px\] {
+  left: 50.5px;
+}
+
 .z-1 {
   z-index: 1001;
 }
