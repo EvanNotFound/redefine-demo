@@ -6,7 +6,7 @@ tags:
     - "Hexo"
     - "Hexo Theme"
     - "Hexo Theme Redefine"
-thumbnail: https://evan.beee.top/img/redefine-1-final.webp
+thumbnail: https://evan.beee.top/img/d00ebf818778f3aad141173167ad0e52-4c3d7.png
 sticky: 999
 categories: 
     - "Demo"
