@@ -73,6 +73,8 @@ global:
     post_pv: true # post page view
   # Whether to enable single page experience (using swup). See https://swup.js.org/. similar to pjax
   single_page: true
+  # Whether to enable Preloader.
+  preloader: true
   # Whether to enable open graph
   open_graph: true
   # Google Analytics
@@ -320,12 +322,16 @@ comment:
     waline:
       serverUrl: https://redefine-waline.ohevan.com # Waline server URL. e.g. https://example.example.com
       lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
+      emoji: [ ] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
+      recaptchaV3Key: wasd # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
+      turnstileKey: # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
       clientID: # GitHub Application Client ID
       clientSecret: # GitHub Application Client Secret
       repo: # GitHub repository
       owner: # GitHub repository owner
+      proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
       version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
