@@ -191,7 +191,15 @@
       description: Zoella的博客小屋
       avatar: https://zoella-w.github.io/images/ariana-avatar.webp
 
+    - name: catnap的个人博客
+      link: https://catnap.eu.org
+      description: 但行好事，莫问前程
+      avatar: https://photo.catnap.eu.org/photo/2023/11/twitter_icon_02.png
 
+    - name: Wqong‘s博客
+      link: https://blog.wqong.com.cn
+      description: 本是后山人，偶做前堂客
+      avatar: https://wqong.oss-cn-hangzhou.aliyuncs.com/test/kidaha-11.svg
 
 ## Template
 # - name:
