@@ -201,6 +201,15 @@
       description: 本是后山人，偶做前堂客
       avatar: https://wqong.oss-cn-hangzhou.aliyuncs.com/test/kidaha-11.svg
 
+    - name: stonehoo 的博客
+      link: https://stonehoo.me
+      description: stonehoo的个人空间
+      avatar: https://www.stonehoo.me/images/mylifebackfavcon.svg
+
+    - name: 小颜同学的博客
+      link: https://www.wy-studio.cn/
+      description: 忘忧Studio的个人博客，专注于更好的内容创作
+      avatar: https://www.wy-studio.cn/images/avatar.jpg
 ## Template
 # - name:
 #   link:
