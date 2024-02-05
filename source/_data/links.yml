@@ -210,6 +210,17 @@
       link: https://www.wy-studio.cn/
       description: 忘忧Studio的个人博客，专注于更好的内容创作
       avatar: https://www.wy-studio.cn/images/avatar.jpg
+
+    - name: Forever
+      link: https://xblog.aptzone.cc/
+      description: 每一篇文章都是对技术精进的见证，每一个代码片段都体现了对完美细节的执着。加入我的旅程，一起探索技术的无限可能。
+      avatar: https://cdn.jsdelivr.net/gh/ZefanHu/blogImage@main/img/20240115011920.png
+
+    - name: LoloVerse
+      link: https://colomovo.github.io/test-for-friend.github.io/
+      description: 欢迎来到LoloVerse~一个啥都想探索的小宇宙！
+      avatar: https://s2.loli.net/2024/02/03/qZl29uYfFx4bOPr.jpg
+    
 ## Template
 # - name:
 #   link:
