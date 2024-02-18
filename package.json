@@ -23,7 +23,7 @@
     "nodejieba": "^2.6.0"
   },
   "scripts": {
-    "dev": "hexo server -p $PORT",
-    "build": "hexo generate"
+    "dev": "hexo clean && hexo server -p $PORT",
+    "build": "hexo clean && hexo generate"
   }
 }
