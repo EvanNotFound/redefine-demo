@@ -220,7 +220,48 @@
       link: https://colomovo.github.io/test-for-friend.github.io/
       description: 欢迎来到LoloVerse~一个啥都想探索的小宇宙！
       avatar: https://s2.loli.net/2024/02/03/qZl29uYfFx4bOPr.jpg
-    
+
+    - name: 你会发芽吗？
+      link: https://www.buzhihuohuo.top/
+      description: 写点东西，积累下来
+      avatar: https://www.buzhihuohuo.top/image/头像.jpg
+
+    - name: 小糖果的部落格
+      link: https://candylearning.github.io/
+      description: 歡迎來到小糖果的部落格~~
+      avatar: https://candylearning.github.io/images/author.jpg
+
+    - name: Hiraeth’s Blog
+      link: https://hiraethecho.github.io/hexo/
+      description: Es Muss Sein!
+      avatar: https://HiraethEcho.github.io/picx-images-hosting/web_icon.webp
+
+    - name: Falling_Blog
+      link: netlify.fallingsakura.top
+      description: Falling_Sakura 的小窝
+      avatar: https://jsd.onmicrosoft.cn/gh/FallingSakura/Source@main/img/202305211656851.webp
+
+    - name: Sue’s virtual garden
+      link: https://stephaniesuu.github.io/
+      description: Code or hack, apple or pear, Wong Kar-wai or Liam.
+      avatar: https://stephaniesuu.github.io/images/avater2.png
+
+    - name: Pu Dianheng’s Blog
+      link: https://elecmark.github.io
+      description: 游戏开发爱好者
+      avatar: https://elecmark.github.io/images/pdh-logo.webp
+
+    - name: 他的第二人生
+      link: https://his2nd.life/
+      description: 人生苦短，我要活出双倍精彩！
+      avatar: https://bucket.hollisdevhub.com/blog/common/avatar.webp
+
+    - name: MengMao’s Blog
+      link: https://mengmaor.github.io
+      description: “每一个不曾起舞的日子都是对生命的辜负.”
+      avatar: https://mengmaor.github.io/images/logo.png
+
+
 ## Template
 # - name:
 #   link:
