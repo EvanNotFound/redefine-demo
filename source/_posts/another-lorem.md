@@ -1,7 +1,7 @@
 ---
 title: Exploring the Versatility of Placeholder Texts in Design
 date: 2023-11-12 10:15:00
-thumbnail: "https://source.unsplash.com/1uyWq9xVwcE"
+thumbnail: "https://evan.beee.top/img/b133333c5cd168178f0920cb1b113fb9-39480.jpg"
 tags:
     - "Design Insights"
     - "Creative Tools"
