@@ -382,7 +382,7 @@ inject:
     -
   # Inject custom footer html code
   footer:
-    - <script defer src="https://events.ohevan.com/script.js" data-website-id="675169fa-d1c1-40b1-a8df-155b96c51df6"></script>
+    - <script defer src="https://events.ohevan.com/script.js" data-website-id="40450239-7d70-4af7-af8d-9e030cc4740a"></script>
     -
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
