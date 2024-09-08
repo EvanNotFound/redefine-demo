@@ -261,6 +261,46 @@
       description: “每一个不曾起舞的日子都是对生命的辜负.”
       avatar: https://mengmaor.github.io/images/logo.png
 
+    - name: Entropy’s Blog
+      link: https://chaosbynn.github.io
+      description: Gubba nub nub doo rahkah.
+      avatar: https://chaosbynn.github.io/images/avatar.jpg
+
+    - name: 山林小筑
+      link: https://linjunfu.github.io
+      description: 无
+      avatar: https://linjunfu.github.io/images/killer_searching.svg
+
+    - name: Do what you love
+      link: https://blog.ourcrmonline.com
+      description: Tech blog
+      avatar: https://blog.ourcrmonline.com/images/icons8-stormtrooper.svg
+
+    - name: CINÉPHILE
+      link: https://cine-philia.github.io/
+      description: Where Cine Philia Writes Her Blog.
+      avatar: https://cine-philia.github.io/images/favicon.png
+
+    - name: R@in’s BLOG
+      link: https://we1kin.github.io/
+      description: 心如花木，向阳而生
+      avatar: https://we1kin.github.io/images/fufu.png
+
+    - name: DisplaceStation_ZjY
+      link: https://mikumikudaifans.github.io/Displace.github.io/
+      description: 日复一日,必有精进
+      avatar: https://mikumikudaifans.github.io/Displace.github.io/Displace.github.io/images/Logo_doge.jpg
+
+    - name: XYX Blog
+      link: https://xyxmichael.github.io/
+      description: hello world
+      avatar: https://github.com/XYXMichael/XYXMichael.github.io/blob/master/img/微信图片_20230719214745.jpg
+
+    - name: Leo2011的博客
+      link: https://leo2011.eu.org
+      description: 许许多多的平凡加在一起，就成了不平凡。
+      avatar: https://leo2011.eu.org/images/g.jpg
+
     - name: CYH的技术博客
       link: https://clistery.github.io
       description: CYH的个人博客，记录一些有趣或有用的东西
@@ -270,6 +310,7 @@
       link: https://www.lray-iu.ink
       description: 生活不只需要有韧性，还要有弹性
       avatar: https://store.lray-iu.ink/tenten.png
+
 
 ## Template
 # - name:
