@@ -261,6 +261,16 @@
       description: “每一个不曾起舞的日子都是对生命的辜负.”
       avatar: https://mengmaor.github.io/images/logo.png
 
+    - name: CYH的技术博客
+      link: https://clistery.github.io
+      description: CYH的个人博客，记录一些有趣或有用的东西
+      avatar: https://gravatar.com/avatar/bc0b73483b6c388d408b1c0daea8148b94b4ffc0f12a24d17e69dea85116a318?s=200
+
+    - name: LRay 's BLOG
+      link: https://www.lray-iu.ink
+      description: 生活不只需要有韧性，还要有弹性
+      avatar: https://store.lray-iu.ink/tenten.png
+
 ## Template
 # - name:
 #   link:
