@@ -311,6 +311,30 @@
       description: 生活不只需要有韧性，还要有弹性
       avatar: https://store.lray-iu.ink/tenten.png
 
+    - name: HeyCSM-你好客户成功经理
+      link: https://heycsm.com
+      description: 一个有态度、且有趣更有料的客户成功经理网站。
+      avatar: https://heycsm.com/images/heycsm-logo.png
+
+    - name: XME Notes Library
+      link: https://blog.xzadudu179.top
+      description: xzadudu179 的小窝
+      avatar: https://image.179.life/images/avatar.png
+
+    - name: 三文鱼的PM Blog
+      link: https://salmonsea.top
+      description: 个人产品经理成长记录。
+      avatar: https://salmonsea.top/images/avatar.jpg
+
+    - name: 小章同学
+      link: https://mrzxr.top
+      description: 一个初中生的小天地
+      avatar: https://mrzxr.top/images/redefine-favicon.png
+
+    - name: Jesse
+      link: https://blog.jesseliu.me
+      description: 一位喜欢逆流而上的留子
+      avatar: https://blog.jesseliu.me/images/Jesse.jpg
 
 ## Template
 # - name:
