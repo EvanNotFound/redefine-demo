@@ -19,9 +19,9 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "hexo-theme-keep": "^3.4.7",
-    "hexo-theme-redefine": "^2.7.0",
+    "hexo-theme-redefine": "^2.7.3",
     "hexo-wordcount": "^6.0.1",
-    "nodejieba": "^2.6.0"
+    "nodejieba": "^3.4.3"
   },
   "scripts": {
     "dev": "hexo clean && hexo server -p $PORT",
