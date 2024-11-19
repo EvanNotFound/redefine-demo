@@ -251,6 +251,9 @@ home:
       Photos:
         path: /masonry
         icon: fa-regular fa-images
+      Bookmarks:
+        path: /bookmarks
+        icon: fa-regular fa-bookmark
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
