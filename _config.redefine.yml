@@ -11,6 +11,8 @@
 info:
   # Site title
   title: Theme Redefine
+  # Site subtitle
+  subtitle: Redefine Your Hexo Journey.
   # Author name
   author: The Redefine Team
   # Site URL
@@ -81,7 +83,9 @@ global:
   # Whether to enable single page experience (using swup). See https://swup.js.org/. similar to pjax
   single_page: true
   # Whether to enable Preloader.
-  preloader: true
+  preloader:
+    enable: false  # Changed from true
+    custom_message:  # Add this line
   # Whether to enable open graph
   open_graph: true
   # Google Analytics
@@ -316,6 +320,8 @@ articles:
     # Whether to enable license
   # Whether to enable lazyload for images
   lazyload: true
+  # Pangu.js (space between Chinese and English). See https://github.com/vinta/pangu.js
+  pangu_js: true
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
   recommendation:
     # Whether to enable article recommendation
