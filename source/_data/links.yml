@@ -1,343 +1,233 @@
-- links_category: 主题贡献者 / Contributors #分类名称
-  has_thumbnail: false #是否显示网站大图
-  list: 
-    - name: EvanNotFound's Blog
-      link: http://ohevan.com/
-      description: EvanNotFound 主题作者个人博客
-      avatar: https://evan.beee.top/avatar.png 
-
-    - name: Ching367436's blog
-      link: https://blog.ching367436.me/
-      description: 是大佬，膜拜膜拜
-      avatar: https://blog.ching367436.me/images/Ching367436.jpg
-
-    - name: Krazyu风宇
-      link: https://krazyu.com/
-      description: 终不似，少年游
-      avatar: https://krazyu.com/images/avatar.svg
-
-    - name: Minecreeper的小站
-      link: https://minecreeper.top/
-      description: Minecreeper的小站，自己的后院，大家的茶馆
-      avatar: https://evan.beee.top/wp-content/uploads/2022/02/279231644986081_.pic_.jpg
-
-    - name: oXnMe
-      link: https://oxn.me/
-      description: 瞬光斩黯黮 昭明破晦夜
-      avatar: https://vip2.loli.io/2023/05/30/pkYoGbcE8ITXzCs.jpg
-    
-    - name: JiangWen's Blog
-      link: http://blog.jiangwen.site
-      description: 文以载道
-      avatar: https://s2.loli.net/2023/03/10/MGtyxZvRhPWrwHb.png
-
-    - name: 安仔の午睡床
-      link: https://anzai.sleepingbed.top/
-      description: 啊对对对，开摆就完了呗
-      avatar: https://avatars.githubusercontent.com/u/32564494
-
-    - name: Fre5h1nd blog
-      link: https://freshwlnd.github.io/
-      description: 思考，等待，斋戒
-      avatar: https://freshwlnd.github.io/images/favicon.png
-
-    - name: RayAlto's Blog
-      link: https://www.rayalto.pro/
-      description: Nearly Dead
-      avatar: https://avatars.githubusercontent.com/u/40734342?v=4
-
-- links_category: 主题使用者 / Users #分类名称
-  has_thumbnail: false #是否显示网站大图
+- has_thumbnail: false
+  links_category: 主题贡献者 / Contributors
   list:
-    - name: AlexWei的部落阁
-      link: http://alexwei.top/
+    - avatar: 'https://assets.ohevan.com/img/df79ff3f5bd71f899146e22eeae58dd4.png'
+      description: EvanNotFound 主题作者个人博客
+      link: 'http://ohevan.com/'
+      name: EvanNotFound's Blog
+    - avatar: 'https://assets.ohevan.com/img/4afca4dde77271dc8f603faf1f87ffa8.jpeg'
+      description: 是大佬，膜拜膜拜
+      link: 'https://blog.ching367436.me/'
+      name: Ching367436's blog
+    - avatar: 'https://assets.ohevan.com/img/aad876c501cfd837be61553bbc978511.jpg'
+      description: 终不似，少年游
+      link: 'https://krazyu.com/'
+      name: Krazyu风宇
+    - avatar: 'https://assets.ohevan.com/img/816dd5588ef56a3e6f8c6f98ee25f2b6.jpeg'
+      description: Minecreeper的小站，自己的后院，大家的茶馆
+      link: 'https://minecreeper.top/'
+      name: Minecreeper的小站
+    - avatar: 'https://assets.ohevan.com/img/6b4053d52406ef3aebd32f13675a5b58.jpeg'
+      description: 瞬光斩黯黮 昭明破晦夜
+      link: 'https://oxn.me/'
+      name: oXnMe
+    - avatar: 'https://assets.ohevan.com/img/6ea5ec84750d88c39b1f1af5bfed0ce9.png'
+      description: 文以载道
+      link: 'http://blog.jiangwen.site'
+      name: JiangWen's Blog
+    - avatar: 'https://assets.ohevan.com/img/8b3ec59b36abc9b3091c2ed5f4a66418.jpeg'
+      description: 啊对对对，开摆就完了呗
+      link: 'https://anzai.sleepingbed.top/'
+      name: 安仔の午睡床
+    - avatar: 'https://assets.ohevan.com/img/349f7fcb5f5fdb6028b5f033b359824b.png'
+      description: 思考，等待，斋戒
+      link: 'https://freshwlnd.github.io/'
+      name: Fre5h1nd blog
+    - avatar: 'https://avatars.githubusercontent.com/u/40734342?v=4'
+      description: Nearly Dead
+      link: 'https://www.rayalto.pro/'
+      name: RayAlto's Blog
+- has_thumbnail: false
+  links_category: 主题使用者 / Users
+  list:
+    - avatar: 'https://assets.ohevan.com/img/28192a30b262d3a3314d8bf73af79d9c.png'
       description: 屑人&卷王Alexwei的博客，有时候会蚌埠住
-      avatar: https://evan.beee.top/wp-content/uploads/2022/02/Screen-Shot-2022-02-13-at-8.39.06-PM.png
-
-    - name: 晨曦的小屋
-      link: https://xcx2006.github.io
+      link: 'http://alexwei.top/'
+      name: AlexWei的部落阁
+    - avatar: >-
+        https://avatars.githubusercontent.com/u/78677516?s=400&u=ecb4efb1b3a8e369aa59914106ede3bcf8cc156d&v=4
       description: 阿巴阿巴
-      avatar: https://avatars.githubusercontent.com/u/78677516?s=400&u=ecb4efb1b3a8e369aa59914106ede3bcf8cc156d&v=4
-
-    - name: 繁华是客
-      link: https://blog.withkr.xyz/
-      description: 记录美好生活
-      avatar: https://blog.withkr.xyz/images/default_avatar.png
-
-    - name: lalalll's blog
-      link: https://lalalll-lalalll.github.io/
+      link: 'https://xcx2006.github.io'
+      name: 晨曦的小屋
+    - avatar: 'https://assets.ohevan.com/img/187e7d86cade4b86e32464dd11bbb9cd.png'
       description: 结月小站
-      avatar: https://lalalll-lalalll.github.io/images/MerpisMe.png
-
-    - name: Attson的博客
-      link: https://attson.github.io/
+      link: 'https://lalalll-lalalll.github.io/'
+      name: lalalll's blog
+    - avatar: 'https://assets.ohevan.com/img/57e1c68fcd428cc1473f0f0bb63b953a.png'
       description: 程序员的随时随想
-      avatar: https://attson.github.io/images/avatar.png
-
-    - name: Charles's Castle
-      link: https://charles2530.github.io/
+      link: 'https://attson.github.io/'
+      name: Attson的博客
+    - avatar: 'https://assets.ohevan.com/img/21627c09db8b9901353df44574a0041f.jpeg'
       description: Charles的移动城堡
-      avatar: https://charles2530.github.io/image/background/logo.jpg
-
-    - name: kopei's home
-      link: https://kopei.github.io
+      link: 'https://charles2530.github.io/'
+      name: Charles's Castle
+    - avatar: 'https://assets.ohevan.com/img/57e9a4686b49de20b54b2dad994a235b.jpeg'
       description: kopei的博客之家
-      avatar: https://raw.githubusercontent.com/Kopei/kopei.github.io/main/source/images/lobster.jpeg
-
-    - name: RZZY's Blog
-      link: https://rzzy.fun
+      link: 'https://kopei.github.io'
+      name: kopei's home
+    - avatar: 'https://assets.ohevan.com/img/8b67d25ba4e5be9ad5c19310ffc15415.webp'
       description: 日之朝矣的个人博客
-      avatar: https://s2.loli.net/2023/02/20/GRCKs6VLYBzWxur.webp
-
-    - name: 这题超纲了的BLOG
-      link: https://Qx-GG.github.io
+      link: 'https://rzzy.fun'
+      name: RZZY's Blog
+    - avatar: 'https://assets.ohevan.com/img/1b5154a82adfbba175b02cdeb0315d8b.png'
       description: 欢迎打扰，请多指教~
-      avatar: https://Qx-GG.github.io/images/派大星.png
-
-    - name: YeLuo的博客
-      link: https://www.zhcoder.com
-      description: 等风来，不如追风去
-      avatar: https://d58w.com/yeluo/i/head/eun.jpeg
-
-    - name: 田野的小站
-      link: https://lovety.life
-      description: 生如芥子，心藏须弥
-      avatar: https://img1.imgtp.com/2023/03/07/sC0RvlAF.svg
-
-
-    - name: HOXIANSEN's Blog
-      link: https://hoxiansen.top
-      description: 可回收垃圾
-      avatar: https://oss.hoxiansen.top/images/recycle.jpg
-
-    - name: 嘿哟博客
-      link: https://www.heiu.top/
+      link: 'https://Qx-GG.github.io'
+      name: 这题超纲了的BLOG
+    - avatar: 'https://assets.ohevan.com/img/efbe443cc281d64058ca52437f37d93f.webp'
       description: 不吵不闹，不悔
-      avatar: https://www.heiu.top/images/avatar.webp
-
-    # - name: Bruce's journey
-    #   link: https://shuyuej.com/blog/
-    #   description: Find the courage to make life a blessing!
-    #   avatar: https://shuyuej.com/blog/images/profile.jpg
-
-
-    - name: 阿儒小站
-      link: https://常子儒.xyz/
-      description: 分享知识，传递价值！
-      avatar: https://c200108.oss-cn-beijing.aliyuncs.com/imgs/202304171505157.svg
-
-#    - name: 悠然的小站
-#      link: https://hexo.zymlove.top/
-#      description: 知识小站
-#      avatar: https://hexo.zymlove.top/images/738b4710b912c8fcea870abb926ffb43d78821c6.jpeg
-
-    - name: Ray's Blog
-      link: https://fengrui.link
+      link: 'https://www.heiu.top/'
+      name: 嘿哟博客
+    - avatar: 'https://assets.ohevan.com/img/0c7cc718d324d036d31953a907c25f4d.jpeg'
       description: 其他垃圾
-      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNirMe4_othZ1Grt73MRagn_KY9eDXyH0V1hWGu0YPkEgbpl49jmT-FLLM8uSo8--YY8&usqp=CAU
-
-    - name: Last Blog
-      link: https://bloglast.top
-      description: void of myself
-      avatar: https://s2.loli.net/2023/08/02/BW2ev8dOJrjltwT.webp
-      
-    - name: Rem's Blog
-      link: https://Incoparab.gitee.io
-      description: 海内存知己，天涯若比邻。
-      avatar: https://cdn.jsdelivr.net/gh/incoparab/My-img@master/img/OIG.g.EV_joMtXCJr9.jpg
-
-    - name: Horean’s Blog
-      link: https://blog.hxrch.top
+      link: 'https://fengrui.link'
+      name: Ray's Blog
+    - avatar: 'https://assets.ohevan.com/img/5df4dabaf8235a3b471fe1b54fe18c51.png'
       description: Programming is just like gaming on the code.
-      avatar: https://blog.hxrch.top/images/blog-logo.png
-
-    - name: 少安事务所
-      link: https://shawnyan.cn
+      link: 'https://blog.hxrch.top'
+      name: Horean’s Blog
+    - avatar: 'https://assets.ohevan.com/img/e0725755feb27e551360de5e902fa27d.jpeg'
       description: ShawnYan’s Blog.
-      avatar: https://shawnyan.cn/img/avatar.jpg
-    
-    - name: Metabok
-      link: https://metabok.net
+      link: 'https://shawnyan.cn'
+      name: 少安事务所
+    - avatar: 'https://assets.ohevan.com/img/6189721b2d8cc89962f5378a05c38e78.jpeg'
       description: 一个喜欢二次元的博主日常记录
-      avatar: https://metabok.net/img/200FMWepxJUcAIb-rv.jpg
-
-    - name: Evan’s Blog
-      link: https://zblog.wyun521.top/
+      link: 'https://metabok.net'
+      name: Metabok
+    - avatar: 'https://assets.ohevan.com/img/a81e6d714ea60ac55bd5f1810ba8bb25.jpeg'
       description: 代码改变世界
-      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
-
-    - name: 夏沫花火zzz🌙 (Muska_Ami)のLife
-      link: https://blog.1l1.icu
-      description: Keep doing, keep loving.
-      avatar: https://blog.1l1.icu/images/avatar.jpg
-
-    - name: 若拂尘阁
-      link: https://keatsliu.cn
-      description: 若无闲事挂心头，便是人间好时节
-      avatar: https://bu.dusays.com/2023/09/27/65142e442fd63.jpg
-
-    - name: Andonade
-      link: https://andonade.github.io
+      link: 'https://zblog.wyun521.top/'
+      name: Evan’s Blog
+    - avatar: 'https://assets.ohevan.com/img/06f6975187e790f801e8097dd2a11aec.jpeg'
+      description: 'Keep doing, keep loving.'
+      link: 'https://blog.1l1.icu'
+      name: "夏沫花火zzz\U0001F319 (Muska_Ami)のLife"
+    - avatar: 'https://i0.imgs.ovh/2023/10/18/r97Pe.jpeg'
       description: Normal one. Normal days.
-      avatar: https://i0.imgs.ovh/2023/10/18/r97Pe.jpeg
-
-    - name: xiaoeryu
-      link: https://xiaoeeyu.github.io/
+      link: 'https://andonade.github.io'
+      name: Andonade
+    - avatar: 'https://assets.ohevan.com/img/2adaa53f13eaee379c029335160b2457.jpeg'
       description: 明心见性，拨云见日
-      avatar: https://xiaoeeyu.github.io/images/rabete.jpg
-
-    - name: Zoella’s Cabin
-      link: https://zoella-w.github.io/
+      link: 'https://xiaoeeyu.github.io/'
+      name: xiaoeryu
+    - avatar: 'https://assets.ohevan.com/img/a5c3b2c1d8ff88764bd9400c75d390af.webp'
       description: Zoella的博客小屋
-      avatar: https://zoella-w.github.io/images/ariana-avatar.webp
-
-    - name: catnap的个人博客
-      link: https://catnap.eu.org
+      link: 'https://zoella-w.github.io/'
+      name: Zoella’s Cabin
+    - avatar: 'https://assets.ohevan.com/img/b489143dd7337b4693b9308ef406fc48.png'
       description: 但行好事，莫问前程
-      avatar: https://photo.catnap.eu.org/photo/2023/11/twitter_icon_02.png
-
-    - name: Wqong‘s博客
-      link: https://blog.wqong.com.cn
+      link: 'https://catnap.eu.org'
+      name: catnap的个人博客
+    - avatar: 'https://wqong.oss-cn-hangzhou.aliyuncs.com/test/kidaha-11.svg'
       description: 本是后山人，偶做前堂客
-      avatar: https://wqong.oss-cn-hangzhou.aliyuncs.com/test/kidaha-11.svg
-
-    - name: stonehoo 的博客
-      link: https://stonehoo.me
+      link: 'https://blog.wqong.com.cn'
+      name: Wqong‘s博客
+    - avatar: 'https://www.stonehoo.me/images/mylifebackfavcon.svg'
       description: stonehoo的个人空间
-      avatar: https://www.stonehoo.me/images/mylifebackfavcon.svg
-
-    - name: 小颜同学的博客
-      link: https://www.wy-studio.cn/
+      link: 'https://stonehoo.me'
+      name: stonehoo 的博客
+    - avatar: 'https://assets.ohevan.com/img/2bbb7df4ddcc3dd6db5841f9e06698fd.jpeg'
       description: 忘忧Studio的个人博客，专注于更好的内容创作
-      avatar: https://www.wy-studio.cn/images/avatar.jpg
-
-    - name: Forever
-      link: https://xblog.aptzone.cc/
-      description: 每一篇文章都是对技术精进的见证，每一个代码片段都体现了对完美细节的执着。加入我的旅程，一起探索技术的无限可能。
-      avatar: https://cdn.jsdelivr.net/gh/ZefanHu/blogImage@main/img/20240115011920.png
-
-    - name: LoloVerse
-      link: https://colomovo.github.io/test-for-friend.github.io/
-      description: 欢迎来到LoloVerse~一个啥都想探索的小宇宙！
-      avatar: https://s2.loli.net/2024/02/03/qZl29uYfFx4bOPr.jpg
-
-    - name: 你会发芽吗？
-      link: https://www.buzhihuohuo.top/
-      description: 写点东西，积累下来
-      avatar: https://www.buzhihuohuo.top/image/头像.jpg
-
-    - name: 小糖果的部落格
-      link: https://candylearning.github.io/
+      link: 'https://www.wy-studio.cn/'
+      name: 小颜同学的博客
+    - avatar: 'https://assets.ohevan.com/img/f597f67ff71b96940b45728b00c933e5.png'
+      description: 每��篇文章都是��技术精进的见证，每一个代码片段都体现了对完美细节的执着。加入我的旅程，一起探索技术的无限可能。
+      link: 'https://xblog.aptzone.cc/'
+      name: Forever
+    - avatar: 'https://assets.ohevan.com/img/55ffa723112c13af6d904d23488e805a.jpeg'
       description: 歡迎來到小糖果的部落格~~
-      avatar: https://candylearning.github.io/images/author.jpg
-
-    - name: Hiraeth’s Blog
-      link: https://hiraethecho.github.io/hexo/
-      description: Es Muss Sein!
-      avatar: https://HiraethEcho.github.io/picx-images-hosting/web_icon.webp
-
-    - name: Falling_Blog
-      link: netlify.fallingsakura.top
-      description: Falling_Sakura 的小窝
-      avatar: https://jsd.onmicrosoft.cn/gh/FallingSakura/Source@main/img/202305211656851.webp
-
-    - name: Sue’s virtual garden
-      link: https://stephaniesuu.github.io/
-      description: Code or hack, apple or pear, Wong Kar-wai or Liam.
-      avatar: https://stephaniesuu.github.io/images/avater2.png
-
-    - name: Pu Dianheng’s Blog
-      link: https://elecmark.github.io
+      link: 'https://candylearning.github.io/'
+      name: 小糖果的部落格
+    - avatar: 'https://assets.ohevan.com/img/a1cbb4e48b8cf0c56746d8207f8d53c2.png'
+      description: 'Code or hack, apple or pear, Wong Kar-wai or Liam.'
+      link: 'https://stephaniesuu.github.io/'
+      name: Sue’s virtual garden
+    - avatar: 'https://assets.ohevan.com/img/b4bf51e9f6a8259529b349b5211be8bb.webp'
       description: 游戏开发爱好者
-      avatar: https://elecmark.github.io/images/pdh-logo.webp
-
-    - name: 他的第二人生
-      link: https://his2nd.life/
+      link: 'https://elecmark.github.io'
+      name: Pu Dianheng’s Blog
+    - avatar: 'https://assets.ohevan.com/img/c7ee46ecd2f54902054aeb61e37c6410.webp'
       description: 人生苦短，我要活出双倍精彩！
-      avatar: https://bucket.hollisdevhub.com/blog/common/blog-logo.webp
-
-    - name: MengMao’s Blog
-      link: https://mengmaor.github.io
+      link: 'https://his2nd.life/'
+      name: 他的第二人生
+    - avatar: 'https://assets.ohevan.com/img/d4e340e0935a787903a83392de038fd5.png'
       description: “每一个不曾起舞的日子都是对生命的辜负.”
-      avatar: https://mengmaor.github.io/images/logo.png
-
-    - name: Entropy’s Blog
-      link: https://chaosbynn.github.io
+      link: 'https://mengmaor.github.io'
+      name: MengMao’s Blog
+    - avatar: 'https://assets.ohevan.com/img/3a563c95f747ee3c94a86b09e6e7cd77.jpeg'
       description: Gubba nub nub doo rahkah.
-      avatar: https://chaosbynn.github.io/images/avatar.jpg
-
-    - name: 山林小筑
-      link: https://linjunfu.github.io
+      link: 'https://chaosbynn.github.io'
+      name: Entropy’s Blog
+    - avatar: 'https://linjunfu.github.io/images/killer_searching.svg'
       description: 无
-      avatar: https://linjunfu.github.io/images/killer_searching.svg
-
-    - name: Do what you love
-      link: https://blog.ourcrmonline.com
-      description: Tech blog
-      avatar: https://blog.ourcrmonline.com/images/icons8-stormtrooper.svg
-
-    - name: CINÉPHILE
-      link: https://cine-philia.github.io/
+      link: 'https://linjunfu.github.io'
+      name: 山林小筑
+    - avatar: 'https://assets.ohevan.com/img/f31533ffea644c0db9a0faf618379bfb.png'
       description: Where Cine Philia Writes Her Blog.
-      avatar: https://cine-philia.github.io/images/favicon.png
-
-    - name: R@in’s BLOG
-      link: https://we1kin.github.io/
+      link: 'https://cine-philia.github.io/'
+      name: CINÉPHILE
+    - avatar: 'https://assets.ohevan.com/img/ef458b5fc728e0f52ed51268a71fb50e.png'
       description: 心如花木，向阳而生
-      avatar: https://we1kin.github.io/images/fufu.png
-
-    - name: DisplaceStation_ZjY
-      link: https://mikumikudaifans.github.io/Displace.github.io/
-      description: 日复一日,必有精进
-      avatar: https://mikumikudaifans.github.io/Displace.github.io/Displace.github.io/images/Logo_doge.jpg
-
-    - name: XYX Blog
-      link: https://xyxmichael.github.io/
+      link: 'https://we1kin.github.io/'
+      name: R@in’s BLOG
+    - avatar: 'https://assets.ohevan.com/img/873b3986804ca78352b51905348d06d8.jpeg'
+      description: '日复一日,必有精进'
+      link: 'https://mikumikudaifans.github.io/Displace.github.io/'
+      name: DisplaceStation_ZjY
+    - avatar: >-
+        https://github.com/XYXMichael/XYXMichael.github.io/blob/master/img/微信图片_20230719214745.jpg
       description: hello world
-      avatar: https://github.com/XYXMichael/XYXMichael.github.io/blob/master/img/微信图片_20230719214745.jpg
-
-    - name: Leo2011的博客
-      link: https://leo2011.eu.org
+      link: 'https://xyxmichael.github.io/'
+      name: XYX Blog
+    - avatar: 'https://assets.ohevan.com/img/5340f0a270c8c078d033ac6436b5720b.jpeg'
       description: 许许多多的平凡加在一起，就成了不平凡。
-      avatar: https://leo2011.eu.org/images/g.jpg
-
-    - name: CYH的技术博客
-      link: https://clistery.github.io
+      link: 'https://leo2011.eu.org'
+      name: Leo2011的博客
+    - avatar: >-
+        https://gravatar.com/avatar/bc0b73483b6c388d408b1c0daea8148b94b4ffc0f12a24d17e69dea85116a318?s=200
       description: CYH的个人博客，记录一些有趣或有用的东西
-      avatar: https://gravatar.com/avatar/bc0b73483b6c388d408b1c0daea8148b94b4ffc0f12a24d17e69dea85116a318?s=200
-
-    - name: LRay 's BLOG
-      link: https://www.lray-iu.ink
+      link: 'https://clistery.github.io'
+      name: CYH的技术博客
+    - avatar: 'https://assets.ohevan.com/img/bdf1f595c294b9fc07fe587212aa4f57.png'
       description: 生活不只需要有韧性，还要有弹性
-      avatar: https://store.lray-iu.ink/tenten.png
-
-    - name: HeyCSM-你好客户成功经理
-      link: https://heycsm.com
+      link: 'https://www.lray-iu.ink'
+      name: LRay 's BLOG
+    - avatar: 'https://assets.ohevan.com/img/650c668e86fd77e735d7803fa27c5392.png'
       description: 一个有态度、且有趣更有料的客户成功经理网站。
-      avatar: https://heycsm.com/images/heycsm-logo.png
-
-    - name: XME Notes Library
-      link: https://blog.xzadudu179.top
+      link: 'https://heycsm.com'
+      name: HeyCSM-你好客户成功经理
+    - avatar: 'https://assets.ohevan.com/img/654592d88201dd1c89f2e7f514486002.png'
       description: xzadudu179 的小窝
-      avatar: https://image.179.life/images/avatar.png
-
-    - name: 三文鱼的PM Blog
-      link: https://salmonsea.top
+      link: 'https://blog.xzadudu179.top'
+      name: XME Notes Library
+    - avatar: 'https://assets.ohevan.com/img/d6feefa9d14e0d0ef8e21fb4adf5f2d7.jpeg'
       description: 个人产品经理成长记录。
-      avatar: https://salmonsea.top/images/avatar.jpg
-
-    - name: 小章同学
-      link: https://mrzxr.top
+      link: 'https://salmonsea.top'
+      name: 三文鱼的PM Blog
+    - avatar: 'https://assets.ohevan.com/img/dd48c1cf0f4a4c785fca1b21242c25f0.png'
       description: 一个初中生的小天地
-      avatar: https://mrzxr.top/images/redefine-favicon.png
-
-    - name: Jesse
-      link: https://blog.jesseliu.me
+      link: 'https://mrzxr.top'
+      name: 小章同学
+    - avatar: 'https://assets.ohevan.com/img/cda267cc8bf490aa9c1a74bca42ec941.jpeg'
       description: 一位喜欢逆流而上的留子
-      avatar: https://blog.jesseliu.me/images/Jesse.jpg
-
-## Template
-# - name:
-#   link:
-#   description:
-#   avatar:
+      link: 'https://blog.jesseliu.me'
+      name: Jesse
+    - avatar: 'https://assets.ohevan.com/img/69bdf876076206ad2a6fd9694fef33a2.webp'
+      description: 就算不是理工科也要玩博客��
+      link: 'https://ataidawa.github.io/'
+      name: 懒事屋
+    - avatar: 'https://assets.ohevan.com/img/ec645246d3e2411ae25ce7fe4cd6742a.jpeg'
+      description: before my body is dry
+      link: 'https://rxw2023-github-io.pages.dev/'
+      name: DoctoR's blog
+    - avatar: 'https://assets.ohevan.com/img/8bf2d0d394c2cfd0bf623b19c84213a0.png'
+      description: 人生没有白走的路，每一步都算数
+      link: 'https://blog.invictusqiu.top'
+      name: 邱海梦旌的博客
+    - avatar: 'https://assets.ohevan.com/img/ef543f3681188ea2f917878723fbacc3.jpeg'
+      description: 努力不一定能成为王者，但不努力真舒服
+      link: 'https://shakes1348.github.io'
+      name: 奶昔 Shakes
+    - avatar: 'https://assets.ohevan.com/img/debccc602ed7cc3be7075d6451ca1a1b.webp'
+      description: 一同面向明天前进吧
+      link: 'https://blog.chatongxue.top'
+      name: CTX's Blog

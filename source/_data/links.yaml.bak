@@ -1,0 +1,293 @@
+- links_category: 主题贡献者 / Contributors #分类名称
+  has_thumbnail: false #是否显示网站大图
+  list: 
+    - name: EvanNotFound's Blog
+      link: http://ohevan.com/
+      description: EvanNotFound 主题作者个人博客
+      avatar: https://evan.beee.top/avatar.png 
+
+    - name: Ching367436's blog
+      link: https://blog.ching367436.me/
+      description: 是大佬，膜拜膜拜
+      avatar: https://blog.ching367436.me/images/Ching367436.jpg
+
+    - name: Krazyu风宇
+      link: https://krazyu.com/
+      description: 终不似，少年游
+      avatar: https://krazyu.com/images/avatar.svg
+
+    - name: Minecreeper的小站
+      link: https://minecreeper.top/
+      description: Minecreeper的小站，自己的后院，大家的茶馆
+      avatar: https://evan.beee.top/wp-content/uploads/2022/02/279231644986081_.pic_.jpg
+
+    - name: oXnMe
+      link: https://oxn.me/
+      description: 瞬光斩黯黮 昭明破晦夜
+      avatar: https://vip2.loli.io/2023/05/30/pkYoGbcE8ITXzCs.jpg
+    
+    - name: JiangWen's Blog
+      link: http://blog.jiangwen.site
+      description: 文以载道
+      avatar: https://s2.loli.net/2023/03/10/MGtyxZvRhPWrwHb.png
+
+    - name: 安仔の午睡床
+      link: https://anzai.sleepingbed.top/
+      description: 啊对对对，开摆就完了呗
+      avatar: https://avatars.githubusercontent.com/u/32564494
+
+    - name: Fre5h1nd blog
+      link: https://freshwlnd.github.io/
+      description: 思考，等待，斋戒
+      avatar: https://freshwlnd.github.io/images/favicon.png
+
+    - name: RayAlto's Blog
+      link: https://www.rayalto.pro/
+      description: Nearly Dead
+      avatar: https://avatars.githubusercontent.com/u/40734342?v=4
+
+- links_category: 主题使用者 / Users #分类名称
+  has_thumbnail: false #是否显示网站大图
+  list:
+    - name: AlexWei的部落阁
+      link: http://alexwei.top/
+      description: 屑人&卷王Alexwei的博客，有时候会蚌埠住
+      avatar: https://evan.beee.top/wp-content/uploads/2022/02/Screen-Shot-2022-02-13-at-8.39.06-PM.png
+
+    - name: 晨曦的小屋
+      link: https://xcx2006.github.io
+      description: 阿巴阿巴
+      avatar: https://avatars.githubusercontent.com/u/78677516?s=400&u=ecb4efb1b3a8e369aa59914106ede3bcf8cc156d&v=4
+
+    - name: lalalll's blog
+      link: https://lalalll-lalalll.github.io/
+      description: 结月小站
+      avatar: https://lalalll-lalalll.github.io/images/MerpisMe.png
+
+    - name: Attson的博客
+      link: https://attson.github.io/
+      description: 程序员的随时随想
+      avatar: https://attson.github.io/images/avatar.png
+
+    - name: Charles's Castle
+      link: https://charles2530.github.io/
+      description: Charles的移动城堡
+      avatar: https://charles2530.github.io/image/background/logo.jpg
+
+    - name: kopei's home
+      link: https://kopei.github.io
+      description: kopei的博客之家
+      avatar: https://raw.githubusercontent.com/Kopei/kopei.github.io/main/source/images/lobster.jpeg
+
+    - name: RZZY's Blog
+      link: https://rzzy.fun
+      description: 日之朝矣的个人博客
+      avatar: https://s2.loli.net/2023/02/20/GRCKs6VLYBzWxur.webp
+
+    - name: 这题超纲了的BLOG
+      link: https://Qx-GG.github.io
+      description: 欢迎打扰，请多指教~
+      avatar: https://Qx-GG.github.io/images/派大星.png
+
+
+    - name: 嘿哟博客
+      link: https://www.heiu.top/
+      description: 不吵不闹，不悔
+      avatar: https://www.heiu.top/images/avatar.webp
+
+    - name: Ray's Blog
+      link: https://fengrui.link
+      description: 其他垃圾
+      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNirMe4_othZ1Grt73MRagn_KY9eDXyH0V1hWGu0YPkEgbpl49jmT-FLLM8uSo8--YY8&usqp=CAU
+
+
+    - name: Horean’s Blog
+      link: https://blog.hxrch.top
+      description: Programming is just like gaming on the code.
+      avatar: https://blog.hxrch.top/images/blog-logo.png
+
+    - name: 少安事务所
+      link: https://shawnyan.cn
+      description: ShawnYan’s Blog.
+      avatar: https://shawnyan.cn/img/avatar.jpg
+    
+    - name: Metabok
+      link: https://metabok.net
+      description: 一个喜欢二次元的博主日常记录
+      avatar: https://metabok.net/img/200FMWepxJUcAIb-rv.jpg
+
+    - name: Evan’s Blog
+      link: https://zblog.wyun521.top/
+      description: 代码改变世界
+      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+
+    - name: 夏沫花火zzz🌙 (Muska_Ami)のLife
+      link: https://blog.1l1.icu
+      description: Keep doing, keep loving.
+      avatar: https://blog.1l1.icu/images/avatar.jpg
+
+    - name: Andonade
+      link: https://andonade.github.io
+      description: Normal one. Normal days.
+      avatar: https://i0.imgs.ovh/2023/10/18/r97Pe.jpeg
+
+    - name: xiaoeryu
+      link: https://xiaoeeyu.github.io/
+      description: 明心见性，拨云见日
+      avatar: https://xiaoeeyu.github.io/images/rabete.jpg
+
+    - name: Zoella’s Cabin
+      link: https://zoella-w.github.io/
+      description: Zoella的博客小屋
+      avatar: https://zoella-w.github.io/images/ariana-avatar.webp
+
+    - name: catnap的个人博客
+      link: https://catnap.eu.org
+      description: 但行好事，莫问前程
+      avatar: https://photo.catnap.eu.org/photo/2023/11/twitter_icon_02.png
+
+    - name: Wqong‘s博客
+      link: https://blog.wqong.com.cn
+      description: 本是后山人，偶做前堂客
+      avatar: https://wqong.oss-cn-hangzhou.aliyuncs.com/test/kidaha-11.svg
+
+    - name: stonehoo 的博客
+      link: https://stonehoo.me
+      description: stonehoo的个人空间
+      avatar: https://www.stonehoo.me/images/mylifebackfavcon.svg
+
+    - name: 小颜同学的博客
+      link: https://www.wy-studio.cn/
+      description: 忘忧Studio的个人博客，专注于更好的内容创作
+      avatar: https://www.wy-studio.cn/images/avatar.jpg
+
+    - name: Forever
+      link: https://xblog.aptzone.cc/
+      description: 每��篇文章都是��技术精进的见证，每一个代码片段都体现了对完美细节的执着。加入我的旅程，一起探索技术的无限可能。
+      avatar: https://cdn.jsdelivr.net/gh/ZefanHu/blogImage@main/img/20240115011920.png
+
+    - name: 小糖果的部落格
+      link: https://candylearning.github.io/
+      description: 歡迎來到小糖果的部落格~~
+      avatar: https://candylearning.github.io/images/author.jpg
+
+    - name: Sue’s virtual garden
+      link: https://stephaniesuu.github.io/
+      description: Code or hack, apple or pear, Wong Kar-wai or Liam.
+      avatar: https://stephaniesuu.github.io/images/avater2.png
+
+    - name: Pu Dianheng’s Blog
+      link: https://elecmark.github.io
+      description: 游戏开发爱好者
+      avatar: https://elecmark.github.io/images/pdh-logo.webp
+
+    - name: 他的第二人生
+      link: https://his2nd.life/
+      description: 人生苦短，我要活出双倍精彩！
+      avatar: https://bucket.hollisdevhub.com/blog/common/blog-logo.webp
+
+    - name: MengMao’s Blog
+      link: https://mengmaor.github.io
+      description: “每一个不曾起舞的日子都是对生命的辜负.”
+      avatar: https://mengmaor.github.io/images/logo.png
+
+    - name: Entropy’s Blog
+      link: https://chaosbynn.github.io
+      description: Gubba nub nub doo rahkah.
+      avatar: https://chaosbynn.github.io/images/avatar.jpg
+
+    - name: 山林小筑
+      link: https://linjunfu.github.io
+      description: 无
+      avatar: https://linjunfu.github.io/images/killer_searching.svg
+
+    - name: CINÉPHILE
+      link: https://cine-philia.github.io/
+      description: Where Cine Philia Writes Her Blog.
+      avatar: https://cine-philia.github.io/images/favicon.png
+
+    - name: R@in’s BLOG
+      link: https://we1kin.github.io/
+      description: 心如花木，向阳而生
+      avatar: https://we1kin.github.io/images/fufu.png
+
+    - name: DisplaceStation_ZjY
+      link: https://mikumikudaifans.github.io/Displace.github.io/
+      description: 日复一日,必有精进
+      avatar: https://mikumikudaifans.github.io/Displace.github.io/Displace.github.io/images/Logo_doge.jpg
+
+    - name: XYX Blog
+      link: https://xyxmichael.github.io/
+      description: hello world
+      avatar: https://github.com/XYXMichael/XYXMichael.github.io/blob/master/img/微信图片_20230719214745.jpg
+
+    - name: Leo2011的博客
+      link: https://leo2011.eu.org
+      description: 许许多多的平凡加在一起，就成了不平凡。
+      avatar: https://leo2011.eu.org/images/g.jpg
+
+    - name: CYH的技术博客
+      link: https://clistery.github.io
+      description: CYH的个人博客，记录一些有趣或有用的东西
+      avatar: https://gravatar.com/avatar/bc0b73483b6c388d408b1c0daea8148b94b4ffc0f12a24d17e69dea85116a318?s=200
+
+    - name: LRay 's BLOG
+      link: https://www.lray-iu.ink
+      description: 生活不只需要有韧性，还要有弹性
+      avatar: https://store.lray-iu.ink/tenten.png
+
+    - name: HeyCSM-你好客户成功经理
+      link: https://heycsm.com
+      description: 一个有态度、且有趣更有料的客户成功经理网站。
+      avatar: https://heycsm.com/images/heycsm-logo.png
+
+    - name: XME Notes Library
+      link: https://blog.xzadudu179.top
+      description: xzadudu179 的小窝
+      avatar: https://image.179.life/images/avatar.png
+
+    - name: 三文鱼的PM Blog
+      link: https://salmonsea.top
+      description: 个人产品经理成长记录。
+      avatar: https://salmonsea.top/images/avatar.jpg
+
+    - name: 小章同学
+      link: https://mrzxr.top
+      description: 一个初中生的小天地
+      avatar: https://mrzxr.top/images/redefine-favicon.png
+
+    - name: Jesse
+      link: https://blog.jesseliu.me
+      description: 一位喜欢逆流而上的留子
+      avatar: https://blog.jesseliu.me/images/Jesse.jpg
+
+    - name: 懒事屋
+      link: https://ataidawa.github.io/
+      description: 就算不是理工科也要玩博客��
+      avatar: https://ataidawa.github.io/images/favicon.webp
+
+    - name: DoctoR's blog
+      link: https://rxw2023-github-io.pages.dev/
+      description: before my body is dry
+      avatar: https://rxw2023-github-io.pages.dev/images/kk.jpg
+
+    - name: 邱海梦旌的博客
+      link: https://blog.invictusqiu.top
+      description: 人生没有白走的路，每一步都算数
+      avatar: https://raw.githubusercontent.com/QiuHaimengjing/ImageStorage/main/blog/veritas-ratio.png
+
+    - name: 奶昔 Shakes
+      link: https://shakes1348.github.io
+      description: 努力不一定能成为王者，但不努力真舒服
+      avatar: https://shakes1348.github.io/images/down.jpeg
+
+    - name: CTX's Blog
+      link: https://blog.chatongxue.top
+      description: 一同面向明天前进吧
+      avatar: https://img.chatongxue.top/img/2024-10-30-debccc602ed7cc3be7075d6451ca1a1b.webp
+
+## Template
+# - name:
+#   link:
+#   description:
+#   avatar:

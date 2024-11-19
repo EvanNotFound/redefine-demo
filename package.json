@@ -26,5 +26,8 @@
   "scripts": {
     "dev": "hexo clean && hexo server -p $PORT",
     "build": "hexo clean && hexo generate"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
