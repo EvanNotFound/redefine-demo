@@ -1,7 +1,7 @@
 ---
 title: Exploring the Versatility of Placeholder Texts in Design
 date: 2023-11-12 10:15:00
-thumbnail: "https://evan.beee.top/img/b133333c5cd168178f0920cb1b113fb9-39480.jpg"
+thumbnail: "https://assets.ohevan.com/img/b133333c5cd168178f0920cb1b113fb9.jpeg"
 tags:
     - "Design Insights"
     - "Creative Tools"

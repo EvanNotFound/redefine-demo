@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2007-01-09 9:41:05
-thumbnail: "https://evan.beee.top/img/iStock-1054858914.webp"
+thumbnail: "https://assets.ohevan.com/img/d501efd15c4a39c92fd12faddf2b693d.webp"
 tags:
     - "Demo"
     - "Lorem Ipsum"

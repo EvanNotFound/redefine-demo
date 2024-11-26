@@ -6,7 +6,7 @@ tags:
     - "Hexo"
     - "Hexo Theme"
     - "Hexo Theme Redefine"
-thumbnail: https://evan.beee.top/img/d00ebf818778f3aad141173167ad0e52-4c3d7.png
+thumbnail: https://assets.ohevan.com/img/d00ebf818778f3aad141173167ad0e52.png
 sticky: 999
 categories: 
     - "Demo"
@@ -34,7 +34,7 @@ categories:
 
 这是一段文本
 
-![Screen Shot 2022-10-02 at 9.26.37 PM](https://evan.beee.top/img/Screen%20Shot%202022-10-02%20at%209.26.37%20PM.png)
+![Screen Shot 2022-10-02 at 9.26.37 PM](https://assets.ohevan.com/img/d4fe8bc5f18fc77cb2064c99c64dc227.png)
 
 `行内代码`
 
