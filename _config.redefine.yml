@@ -158,9 +158,12 @@ home_banner:
     enable: true
     # Social links
     links:
-      github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
-      npm: https://www.npmjs.com/package/hexo-theme-redefine # your ZhiHu URL
-      email: contact@ohevan.com # your email
+      - icon: github
+        url: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
+      - icon: npm
+        url: https://www.npmjs.com/package/hexo-theme-redefine # your NPM URL
+      - icon: email
+        url: mailto:contact@ohevan.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
